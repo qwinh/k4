@@ -1,0 +1,13 @@
+vscode
+(all punctuation)
+\p{P}
+
+(endlines without number before it)
+(?<!\d)\r?\n
+
+(whatever line has = match all _ in that line)
+_(?=.*=.*$)
+
+notepad++
+(-s-)|(-d-)|(-a-)|(-k-)|(-l-)
+(?1-s)(?2-d)(?3-a)(?4-k)(?5-l)
