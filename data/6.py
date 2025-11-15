@@ -5,31 +5,21 @@ output_file = "6.txt"
 with open(input_file, "r", encoding="utf-8") as f:
     text = f.read()
 
-# All replacements listed in order
+# All replacements listed in order (original ones)
 replacements = [
-    ("ng-", "f-"),
-    ("ch-", "c-"),
-    ("nh-", "f-"),
-    ("i-",  "j-"),
-    ("o-",  "u-"),
-    ("y-",  "j-"),
-    ("p-",  "v-"),
-    ("t-",  "r-"),
-    ("_QQ", "_q"),
-    ("_AA", "_a"),
-    ("_WW", "_w"),
-    ("_SS", "_s"),
-    ("_EE", "_e"),
-    ("_DD", "_d"),
-    ("_II", "_i"),
-    ("_KK", "_k"),
-    ("_OO", "_o"),
-    ("_LL", "_l"),
-    ("_PP", "_p"),
-    ("_ZZ", "_z"),
+    ("QQ-", "Q="),
+    ("AA-", "A="),
+    ("WW-", "W="),
+    ("SS-", "S="),
+    ("EE-", "E="),
+    ("DD-", "D="),
+    ("II-", "I="),
+    ("KK-", "K="),
+    ("OO-", "O="),
+    ("LL-", "L="),
+    ("PP-", "P="),
+    ("ZZ-", "Z="),
 ]
-
-
 
 
 # Apply all replacements sequentially

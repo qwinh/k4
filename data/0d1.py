@@ -1,27 +1,20 @@
-input_file = "2.txt"
-output_file = "3.txt"
+input_file = "0.txt"
+output_file = "0d1.txt"
 
 # Read the file
 with open(input_file, "r", encoding="utf-8") as f:
     text = f.read()
 
-# All replacements listed in order
+# All replacements listed in order (original ones)
 replacements = [
-    ("kh", "k"),
-    ("gh", "g"),
-    ("ch", "u"),
-    ("tr", "o"),
-    ("th", "w"),
-    ("đ",  "j"),
-    ("ng", "a"),
-    ("nh", "i"),
-    ("k",  "c"),
-    ("q",  "c"),
-    ("gi", "z"),
-    ("ph", "f"),
-    #("\n",   "\np"),
+    ("quă", "qQQ"),
+    ("quach", "qQQ"),
+    ("quanh", "qSS"),
+    ("que", "qEE"),
+    ("quo", "qOO"),
+    ("qui", "qII"),
+    ("qua", "qAA"),
 ]
-
 
 # Split the text into words
 words = text.split()

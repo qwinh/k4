@@ -1,4 +1,4 @@
-input_file = "0.txt"
+input_file = "0d1.txt"
 output_file = "1.txt"
 
 # Read the file
@@ -7,6 +7,7 @@ with open(input_file, "r", encoding="utf-8") as f:
 
 # All replacements listed in order (original ones)
 replacements = [
+    #qua
     ("quô", "qLL"),
     ("oau", "QQu"),
     ("oay", "QQj"),

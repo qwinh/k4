@@ -23,7 +23,7 @@ def process_words(input_string):
     return ' '.join(processed_words)
 
 input_file = "1.txt"
-output_file = "1_1.txt"
+output_file = "1d1.txt"
 
 with open(input_file, 'r', encoding='utf-8') as f:
     content = f.read()

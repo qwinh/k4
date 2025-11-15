@@ -5,27 +5,14 @@ output_file = "5.txt"
 with open(input_file, "r", encoding="utf-8") as f:
     text = f.read()
 
-# All replacements listed in order
+# All replacements listed in order (original ones)
 replacements = [
-    ("k_", "c_"),
-    ("q_", "c_"),
-    ("gh_", "g_"),
-    ("ch_", "u_"),
-    ("tr_", "o_"),
-
-    ("th_", "w_"),
-    ("đ_",  "j_"),
-
-    ("ng_", "a_"),
-    ("nh_", "i_"),
-
-    ("k_",  "c_"),
-    ("q_",  "c_"),
-
-    ("gi_", "z_"),
-    #("\n_",   "\np_"),
+    ("1", "-1"),
+    ("2", "-2"),
+    ("3", "-3"),
+    ("4", "-4"),
+    ("5", "-5"),
 ]
-
 
 
 # Apply all replacements sequentially
