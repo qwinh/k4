@@ -8,7 +8,7 @@ pk l	ịa
  kvl	yệp
  krl	yệt
 
-pk o	uyệ
+pk o	uỵa
  kuo	uyệu
  kjo	uyệy
  kco	uyệc
@@ -28,7 +28,7 @@ zkml	giệm
 zkvl	giệp
 zkrl	giệt
 
-zk o	giuyệ
+zk o	giuỵa
 zkuo	giuyệu
 zkjo	giuyệy
 zkco	giuyệc
