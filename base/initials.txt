@@ -6,6 +6,7 @@ g	g/gh
 a	ng/ngh
 c	c/k
 
+(the bellow are of 1.txt)
 t th đ d
 ch tr r l
 n nh m

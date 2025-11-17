@@ -1,0 +1,159 @@
+0w1l	ợ
+0wul	ợu
+0wjl	ợi
+0wcl	ợc
+0wfl	ợng
+0wnl	ợn
+0wml	ợm
+0wvl	ợp
+0wrl	ợt
+
+0o1l	ọ
+0oul	ọu
+0ojl	ọi
+0ocl	ọc
+0ofl	ọng
+0onl	ọn
+0oml	ọm
+0ovl	ọp
+0orl	ọt
+
+0o1o	oọ
+0ouo	oọu
+0ojo	oọi
+0oco	oọc
+0ofo	oọng
+0ono	oọn
+0omo	oọm
+0ovo	oọp
+0oro	oọt
+
+0a1l	ạ
+0aul	ạo
+0ajl	ại
+0acl	ạc
+0afl	ạng
+0anl	ạn
+0aml	ạm
+0avl	ạp
+0arl	ạt
+
+0e1l	ẹ
+0eul	ẹo
+0ejl	ẹi
+0ecl	ẹc
+0efl	ẹng
+0enl	ẹn
+0eml	ẹm
+0evl	ẹp
+0erl	ẹt
+
+0d1l	ệ
+0dul	ệu
+0djl	ệy
+0dcl	ệch
+0dfl	ệnh
+0dnl	ện
+0dml	ệm
+0dvl	ệp
+0drl	ệt
+
+0i1l	ị
+0iul	ỵu
+0ijl	ỵ
+0icl	ỵch
+0ifl	ỵnh
+0inl	ỵn
+0iml	ỵm
+0ivl	ỵp
+0irl	ỵt
+
+0k1l	ỵa
+0kul	yệu
+0kjl	yệy
+0kcl	yệc
+0kfl	yệng
+0knl	yện
+0kml	yệm
+0kvl	yệp
+0krl	yệt
+
+0l1l	ộ
+0lul	ộu
+0ljl	ội
+0lcl	ộc
+0lfl	ộng
+0lnl	ộn
+0lml	ộm
+0lvl	ộp
+0lrl	ột
+
+0l1o	oộ
+0luo	oộu
+0ljo	oội
+0lco	oộc
+0lfo	oộng
+0lno	oộn
+0lmo	oộm
+0lvo	oộp
+0lro	oột
+
+0s1l	ạnh
+0sul	ậu
+0sjl	ậy
+0scl	ậc
+0sfl	ậng
+0snl	ận
+0sml	ậm
+0svl	ập
+0srl	ật
+
+0q1l	ạch
+0qul	ạu
+0qjl	ạy
+0qcl	ặc
+0qfl	ặng
+0qnl	ặn
+0qml	ặm
+0qvl	ặp
+0qrl	ặt
+
+0z1l	ự
+0zul	ựu
+0zjl	ựi
+0zcl	ực
+0zfl	ựng
+0znl	ựn
+0zml	ựm
+0zvl	ựp
+0zrl	ựt
+
+0z1o	ựa
+0zuo	ượu
+0zjo	ượi
+0zco	ược
+0zfo	ượng
+0zno	ượn
+0zmo	ượm
+0zvo	ượp
+0zro	ượt
+
+0p1l	ụ
+0pul	ụu
+0pjl	ụi
+0pcl	ục
+0pfl	ụng
+0pnl	ụn
+0pml	ụm
+0pvl	ụp
+0prl	ụt
+
+0p1o	ụa
+0puo	uộu
+0pjo	uội
+0pco	uộc
+0pfo	uộng
+0pno	uộn
+0pmo	uộm
+0pvo	uộp
+0pro	uột

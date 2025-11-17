@@ -1,0 +1,160 @@
+
+tw1l	quợ
+twul	quợu
+twjl	quợi
+twcl	quợc
+twfl	quợng
+twnl	quợn
+twml	quợm
+twvl	quợp
+twrl	quợt
+
+to1l	quọ
+toul	quọu
+tojl	quọi
+tocl	quọc
+tofl	quọng
+tonl	quọn
+toml	quọm
+tovl	quọp
+torl	quọt
+
+to1o	quoọ
+touo	quoọu
+tojo	quoọi
+toco	quoọc
+tofo	quoọng
+tono	quoọn
+tomo	quoọm
+tovo	quoọp
+toro	quoọt
+
+ta1l	quạ
+taul	quạo
+tajl	quại
+tacl	quạc
+tafl	quạng
+tanl	quạn
+taml	quạm
+tavl	quạp
+tarl	quạt
+
+te1l	quẹ
+teul	quẹo
+tejl	quẹi
+tecl	quẹc
+tefl	quẹng
+tenl	quẹn
+teml	quẹm
+tevl	quẹp
+terl	quẹt
+
+td1l	quệ
+tdul	quệu
+tdjl	quệy
+tdcl	quệch
+tdfl	quệnh
+tdnl	quện
+tdml	quệm
+tdvl	quệp
+tdrl	quệt
+
+ti1l	quị
+tiul	quỵu
+tijl	quỵ
+ticl	quỵch
+tifl	quỵnh
+tinl	quỵn
+timl	quỵm
+tivl	quỵp
+tirl	quỵt
+
+tk1l	quỵa
+tkul	quyệu
+tkjl	quyệy
+tkcl	quyệc
+tkfl	quyệng
+tknl	quyện
+tkml	quyệm
+tkvl	quyệp
+tkrl	quyệt
+
+tl1l	quộ
+tlul	quộu
+tljl	quội
+tlcl	quộc
+tlfl	quộng
+tlnl	quộn
+tlml	quộm
+tlvl	quộp
+tlrl	quột
+
+tl1o	quoộ
+tluo	quoộu
+tljo	quoội
+tlco	quoộc
+tlfo	quoộng
+tlno	quoộn
+tlmo	quoộm
+tlvo	quoộp
+tlro	quoột
+
+ts1l	quạnh
+tsul	quậu
+tsjl	quậy
+tscl	quậc
+tsfl	quậng
+tsnl	quận
+tsml	quậm
+tsvl	quập
+tsrl	quật
+
+tq1l	quạch
+tqul	quạu
+tqjl	quạy
+tqcl	quặc
+tqfl	quặng
+tqnl	quặn
+tqml	quặm
+tqvl	quặp
+tqrl	quặt
+
+tz1l	quự
+tzul	quựu
+tzjl	quựi
+tzcl	quực
+tzfl	quựng
+tznl	quựn
+tzml	quựm
+tzvl	quựp
+tzrl	quựt
+
+tz1o	quựa
+tzuo	quượu
+tzjo	quượi
+tzco	quược
+tzfo	quượng
+tzno	quượn
+tzmo	quượm
+tzvo	quượp
+tzro	quượt
+
+tp1l	quụ
+tpul	quụu
+tpjl	quụi
+tpcl	quục
+tpfl	quụng
+tpnl	quụn
+tpml	quụm
+tpvl	quụp
+tprl	quụt
+
+tp1o	quụa
+tpuo	quuộu
+tpjo	quuội
+tpco	quuộc
+tpfo	quuộng
+tpno	quuộn
+tpmo	quuộm
+tpvo	quuộp
+tpro	quuột

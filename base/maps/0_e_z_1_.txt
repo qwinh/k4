@@ -1,0 +1,79 @@
+ze1l	gẹ
+zeul	gẹo
+zejl	gẹi
+zecl	gẹc
+zefl	gẹng
+zenl	gẹn
+zeml	gẹm
+zevl	gẹp
+zerl	gẹt
+
+ze1o	gioẹ
+zeuo	gioẹo
+zejo	gioẹi
+zeco	gioẹc
+zefo	gioẹng
+zeno	gioẹn
+zemo	gioẹm
+zevo	gioẹp
+zero	gioẹt
+
+zd1l	gệ
+zdul	gệu
+zdjl	gệy
+zdcl	gệch
+zdfl	gệnh
+zdnl	gện
+zdml	gệm
+zdvl	gệp
+zdrl	gệt
+
+zd1o	giuệ
+zduo	giuệu
+zdjo	giuệy
+zdco	giuệch
+zdfo	giuệnh
+zdno	giuện
+zdmo	giuệm
+zdvo	giuệp
+zdro	giuệt
+
+zi1l	gị
+ziul	gịu
+zijl	gỵ
+zicl	gịch
+zifl	gịnh
+zinl	gịn
+ziml	gịm
+zivl	gịp
+zirl	gịt
+
+zi1o	giuị
+ziuo	giuỵu
+zijo	giuỵ
+zico	giuỵch
+zifo	giuỵnh
+zino	giuỵn
+zimo	giuỵm
+zivo	giuỵp
+ziro	giuỵt
+
+zk1l	gỵa
+zkul	giệu
+zkjl	giệy
+zkcl	giệc
+zkfl	giệng
+zknl	giện
+zkml	giệm
+zkvl	giệp
+zkrl	giệt
+
+zk1o	giuỵa
+zkuo	giuyệu
+zkjo	giuyệy
+zkco	giuyệc
+zkfo	giuyệng
+zkno	giuyện
+zkmo	giuyệm
+zkvo	giuyệp
+zkro	giuyệt

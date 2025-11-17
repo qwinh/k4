@@ -1,0 +1,5723 @@
+
+
+pwl	ợ
+wul	ợu
+wjl	ợi
+wcl	ợc
+wfl	ợng
+wnl	ợn
+wml	ợm
+wvl	ợp
+wrl	ợt
+
+pwo	uợ
+wuo	uợu
+wjo	uợi
+wco	uợc
+wfo	uợng
+wno	uợn
+wmo	uợm
+wvo	uợp
+wro	uợt
+
+pol	ọ
+oul	ọu
+ojl	ọi
+ocl	ọc
+ofl	ọng
+onl	ọn
+oml	ọm
+ovl	ọp
+orl	ọt
+
+poo	oọ
+ouo	oọu
+ojo	oọi
+oco	oọc
+ofo	oọng
+ono	oọn
+omo	oọm
+ovo	oọp
+oro	oọt
+
+pal	ạ
+aul	ạo
+ajl	ại
+acl	ạc
+afl	ạng
+anl	ạn
+aml	ạm
+avl	ạp
+arl	ạt
+
+pao	oạ
+auo	oạo
+ajo	oại
+aco	oạc
+afo	oạng
+ano	oạn
+amo	oạm
+avo	oạp
+aro	oạt
+
+pel	ẹ
+eul	ẹo
+ejl	ẹi
+ecl	ẹc
+efl	ẹng
+enl	ẹn
+eml	ẹm
+evl	ẹp
+erl	ẹt
+
+peo	oẹ
+euo	oẹo
+ejo	oẹi
+eco	oẹc
+efo	oẹng
+eno	oẹn
+emo	oẹm
+evo	oẹp
+ero	oẹt
+
+pdl	ệ
+dul	ệu
+djl	ệy
+dcl	ệch
+dfl	ệnh
+dnl	ện
+dml	ệm
+dvl	ệp
+drl	ệt
+
+pdo	uệ
+duo	uệu
+djo	uệy
+dco	uệch
+dfo	uệnh
+dno	uện
+dmo	uệm
+dvo	uệp
+dro	uệt
+
+pil	ị
+iul	ịu
+ijl	ỵ
+icl	ịch
+ifl	ịnh
+inl	ịn
+iml	ịm
+ivl	ịp
+irl	ịt
+
+pio	uị
+iuo	uỵu
+ijo	uỵ
+ico	uỵch
+ifo	uỵnh
+ino	uỵn
+imo	uỵm
+ivo	uỵp
+iro	uỵt
+
+pkl	ịa
+kul	iệu
+kjl	iệy
+kcl	iệc
+kfl	iệng
+knl	iện
+kml	iệm
+kvl	iệp
+krl	iệt
+
+pko	uỵa
+kuo	uyệu
+kjo	uyệy
+kco	uyệc
+kfo	uyệng
+kno	uyện
+kmo	uyệm
+kvo	uyệp
+kro	uyệt
+
+pll	ộ
+lul	ộu
+ljl	ội
+lcl	ộc
+lfl	ộng
+lnl	ộn
+lml	ộm
+lvl	ộp
+lrl	ột
+
+plo	oộ
+luo	oộu
+ljo	oội
+lco	oộc
+lfo	oộng
+lno	oộn
+lmo	oộm
+lvo	oộp
+lro	oột
+
+psl	ạnh
+sul	ậu
+sjl	ậy
+scl	ậc
+sfl	ậng
+snl	ận
+sml	ậm
+svl	ập
+srl	ật
+
+pso	oạnh
+suo	uậu
+sjo	uậy
+sco	uậc
+sfo	uậng
+sno	uận
+smo	uậm
+svo	uập
+sro	uật
+
+pql	ạch
+qul	ạu
+qjl	ạy
+qcl	ặc
+qfl	ặng
+qnl	ặn
+qml	ặm
+qvl	ặp
+qrl	ặt
+
+pqo	oạch
+quo	oạu
+qjo	oạy
+qco	oặc
+qfo	oặng
+qno	oặn
+qmo	oặm
+qvo	oặp
+qro	oặt
+
+pzl	ự
+zul	ựu
+zjl	ựi
+zcl	ực
+zfl	ựng
+znl	ựn
+zml	ựm
+zvl	ựp
+zrl	ựt
+
+pzo	ựa
+zuo	ượu
+zjo	ượi
+zco	ược
+zfo	ượng
+zno	ượn
+zmo	ượm
+zvo	ượp
+zro	ượt
+
+ppl	ụ
+pul	ụu
+pjl	ụi
+pcl	ục
+pfl	ụng
+pnl	ụn
+pml	ụm
+pvl	ụp
+prl	ụt
+
+ppo	ụa
+puo	uộu
+pjo	uội
+pco	uộc
+pfo	uộng
+pno	uộn
+pmo	uộm
+pvo	uộp
+pro	uột
+
+qwl	tợ
+qwul	tợu
+qwjl	tợi
+qwcl	tợc
+qwfl	tợng
+qwnl	tợn
+qwml	tợm
+qwvl	tợp
+qwrl	tợt
+
+qwo	tuợ
+qwuo	tuợu
+qwjo	tuợi
+qwco	tuợc
+qwfo	tuợng
+qwno	tuợn
+qwmo	tuợm
+qwvo	tuợp
+qwro	tuợt
+
+qol	tọ
+qoul	tọu
+qojl	tọi
+qocl	tọc
+qofl	tọng
+qonl	tọn
+qoml	tọm
+qovl	tọp
+qorl	tọt
+
+qoo	toọ
+qouo	toọu
+qojo	toọi
+qoco	toọc
+qofo	toọng
+qono	toọn
+qomo	toọm
+qovo	toọp
+qoro	toọt
+
+qal	tạ
+qaul	tạo
+qajl	tại
+qacl	tạc
+qafl	tạng
+qanl	tạn
+qaml	tạm
+qavl	tạp
+qarl	tạt
+
+qao	toạ
+qauo	toạo
+qajo	toại
+qaco	toạc
+qafo	toạng
+qano	toạn
+qamo	toạm
+qavo	toạp
+qaro	toạt
+
+qel	tẹ
+qeul	tẹo
+qejl	tẹi
+qecl	tẹc
+qefl	tẹng
+qenl	tẹn
+qeml	tẹm
+qevl	tẹp
+qerl	tẹt
+
+qeo	toẹ
+qeuo	toẹo
+qejo	toẹi
+qeco	toẹc
+qefo	toẹng
+qeno	toẹn
+qemo	toẹm
+qevo	toẹp
+qero	toẹt
+
+qdl	tệ
+qdul	tệu
+qdjl	tệy
+qdcl	tệch
+qdfl	tệnh
+qdnl	tện
+qdml	tệm
+qdvl	tệp
+qdrl	tệt
+
+qdo	tuệ
+qduo	tuệu
+qdjo	tuệy
+qdco	tuệch
+qdfo	tuệnh
+qdno	tuện
+qdmo	tuệm
+qdvo	tuệp
+qdro	tuệt
+
+qil	tị
+qiul	tịu
+qijl	tỵ
+qicl	tịch
+qifl	tịnh
+qinl	tịn
+qiml	tịm
+qivl	tịp
+qirl	tịt
+
+qio	tuị
+qiuo	tuỵu
+qijo	tuỵ
+qico	tuỵch
+qifo	tuỵnh
+qino	tuỵn
+qimo	tuỵm
+qivo	tuỵp
+qiro	tuỵt
+
+qkl	tịa
+qkul	tiệu
+qkjl	tiệy
+qkcl	tiệc
+qkfl	tiệng
+qknl	tiện
+qkml	tiệm
+qkvl	tiệp
+qkrl	tiệt
+
+qko	tuỵa
+qkuo	tuyệu
+qkjo	tuyệy
+qkco	tuyệc
+qkfo	tuyệng
+qkno	tuyện
+qkmo	tuyệm
+qkvo	tuyệp
+qkro	tuyệt
+
+qll	tộ
+qlul	tộu
+qljl	tội
+qlcl	tộc
+qlfl	tộng
+qlnl	tộn
+qlml	tộm
+qlvl	tộp
+qlrl	tột
+
+qlo	toộ
+qluo	toộu
+qljo	toội
+qlco	toộc
+qlfo	toộng
+qlno	toộn
+qlmo	toộm
+qlvo	toộp
+qlro	toột
+
+qsl	tạnh
+qsul	tậu
+qsjl	tậy
+qscl	tậc
+qsfl	tậng
+qsnl	tận
+qsml	tậm
+qsvl	tập
+qsrl	tật
+
+qso	toạnh
+qsuo	tuậu
+qsjo	tuậy
+qsco	tuậc
+qsfo	tuậng
+qsno	tuận
+qsmo	tuậm
+qsvo	tuập
+qsro	tuật
+
+qql	tạch
+qqul	tạu
+qqjl	tạy
+qqcl	tặc
+qqfl	tặng
+qqnl	tặn
+qqml	tặm
+qqvl	tặp
+qqrl	tặt
+
+qqo	toạch
+qquo	toạu
+qqjo	toạy
+qqco	toặc
+qqfo	toặng
+qqno	toặn
+qqmo	toặm
+qqvo	toặp
+qqro	toặt
+
+qzl	tự
+qzul	tựu
+qzjl	tựi
+qzcl	tực
+qzfl	tựng
+qznl	tựn
+qzml	tựm
+qzvl	tựp
+qzrl	tựt
+
+qzo	tựa
+qzuo	tượu
+qzjo	tượi
+qzco	tược
+qzfo	tượng
+qzno	tượn
+qzmo	tượm
+qzvo	tượp
+qzro	tượt
+
+qpl	tụ
+qpul	tụu
+qpjl	tụi
+qpcl	tục
+qpfl	tụng
+qpnl	tụn
+qpml	tụm
+qpvl	tụp
+qprl	tụt
+
+qpo	tụa
+qpuo	tuộu
+qpjo	tuội
+qpco	tuộc
+qpfo	tuộng
+qpno	tuộn
+qpmo	tuộm
+qpvo	tuộp
+qpro	tuột
+
+wwl	thợ
+wwul	thợu
+wwjl	thợi
+wwcl	thợc
+wwfl	thợng
+wwnl	thợn
+wwml	thợm
+wwvl	thợp
+wwrl	thợt
+
+wwo	thuợ
+wwuo	thuợu
+wwjo	thuợi
+wwco	thuợc
+wwfo	thuợng
+wwno	thuợn
+wwmo	thuợm
+wwvo	thuợp
+wwro	thuợt
+
+wol	thọ
+woul	thọu
+wojl	thọi
+wocl	thọc
+wofl	thọng
+wonl	thọn
+woml	thọm
+wovl	thọp
+worl	thọt
+
+woo	thoọ
+wouo	thoọu
+wojo	thoọi
+woco	thoọc
+wofo	thoọng
+wono	thoọn
+womo	thoọm
+wovo	thoọp
+woro	thoọt
+
+wal	thạ
+waul	thạo
+wajl	thại
+wacl	thạc
+wafl	thạng
+wanl	thạn
+waml	thạm
+wavl	thạp
+warl	thạt
+
+wao	thoạ
+wauo	thoạo
+wajo	thoại
+waco	thoạc
+wafo	thoạng
+wano	thoạn
+wamo	thoạm
+wavo	thoạp
+waro	thoạt
+
+wel	thẹ
+weul	thẹo
+wejl	thẹi
+wecl	thẹc
+wefl	thẹng
+wenl	thẹn
+weml	thẹm
+wevl	thẹp
+werl	thẹt
+
+weo	thoẹ
+weuo	thoẹo
+wejo	thoẹi
+weco	thoẹc
+wefo	thoẹng
+weno	thoẹn
+wemo	thoẹm
+wevo	thoẹp
+wero	thoẹt
+
+wdl	thệ
+wdul	thệu
+wdjl	thệy
+wdcl	thệch
+wdfl	thệnh
+wdnl	thện
+wdml	thệm
+wdvl	thệp
+wdrl	thệt
+
+wdo	thuệ
+wduo	thuệu
+wdjo	thuệy
+wdco	thuệch
+wdfo	thuệnh
+wdno	thuện
+wdmo	thuệm
+wdvo	thuệp
+wdro	thuệt
+
+wil	thị
+wiul	thịu
+wijl	thỵ
+wicl	thịch
+wifl	thịnh
+winl	thịn
+wiml	thịm
+wivl	thịp
+wirl	thịt
+
+wio	thuị
+wiuo	thuỵu
+wijo	thuỵ
+wico	thuỵch
+wifo	thuỵnh
+wino	thuỵn
+wimo	thuỵm
+wivo	thuỵp
+wiro	thuỵt
+
+wkl	thịa
+wkul	thiệu
+wkjl	thiệy
+wkcl	thiệc
+wkfl	thiệng
+wknl	thiện
+wkml	thiệm
+wkvl	thiệp
+wkrl	thiệt
+
+wko	thuỵa
+wkuo	thuyệu
+wkjo	thuyệy
+wkco	thuyệc
+wkfo	thuyệng
+wkno	thuyện
+wkmo	thuyệm
+wkvo	thuyệp
+wkro	thuyệt
+
+wll	thộ
+wlul	thộu
+wljl	thội
+wlcl	thộc
+wlfl	thộng
+wlnl	thộn
+wlml	thộm
+wlvl	thộp
+wlrl	thột
+
+wlo	thoộ
+wluo	thoộu
+wljo	thoội
+wlco	thoộc
+wlfo	thoộng
+wlno	thoộn
+wlmo	thoộm
+wlvo	thoộp
+wlro	thoột
+
+wsl	thạnh
+wsul	thậu
+wsjl	thậy
+wscl	thậc
+wsfl	thậng
+wsnl	thận
+wsml	thậm
+wsvl	thập
+wsrl	thật
+
+wso	thoạnh
+wsuo	thuậu
+wsjo	thuậy
+wsco	thuậc
+wsfo	thuậng
+wsno	thuận
+wsmo	thuậm
+wsvo	thuập
+wsro	thuật
+
+wql	thạch
+wqul	thạu
+wqjl	thạy
+wqcl	thặc
+wqfl	thặng
+wqnl	thặn
+wqml	thặm
+wqvl	thặp
+wqrl	thặt
+
+wqo	thoạch
+wquo	thoạu
+wqjo	thoạy
+wqco	thoặc
+wqfo	thoặng
+wqno	thoặn
+wqmo	thoặm
+wqvo	thoặp
+wqro	thoặt
+
+wzl	thự
+wzul	thựu
+wzjl	thựi
+wzcl	thực
+wzfl	thựng
+wznl	thựn
+wzml	thựm
+wzvl	thựp
+wzrl	thựt
+
+wzo	thựa
+wzuo	thượu
+wzjo	thượi
+wzco	thược
+wzfo	thượng
+wzno	thượn
+wzmo	thượm
+wzvo	thượp
+wzro	thượt
+
+wpl	thụ
+wpul	thụu
+wpjl	thụi
+wpcl	thục
+wpfl	thụng
+wpnl	thụn
+wpml	thụm
+wpvl	thụp
+wprl	thụt
+
+wpo	thụa
+wpuo	thuộu
+wpjo	thuội
+wpco	thuộc
+wpfo	thuộng
+wpno	thuộn
+wpmo	thuộm
+wpvo	thuộp
+wpro	thuột
+
+jwl	đợ
+jwul	đợu
+jwjl	đợi
+jwcl	đợc
+jwfl	đợng
+jwnl	đợn
+jwml	đợm
+jwvl	đợp
+jwrl	đợt
+
+jwo	đuợ
+jwuo	đuợu
+jwjo	đuợi
+jwco	đuợc
+jwfo	đuợng
+jwno	đuợn
+jwmo	đuợm
+jwvo	đuợp
+jwro	đuợt
+
+jol	đọ
+joul	đọu
+jojl	đọi
+jocl	đọc
+jofl	đọng
+jonl	đọn
+joml	đọm
+jovl	đọp
+jorl	đọt
+
+joo	đoọ
+jouo	đoọu
+jojo	đoọi
+joco	đoọc
+jofo	đoọng
+jono	đoọn
+jomo	đoọm
+jovo	đoọp
+joro	đoọt
+
+jal	đạ
+jaul	đạo
+jajl	đại
+jacl	đạc
+jafl	đạng
+janl	đạn
+jaml	đạm
+javl	đạp
+jarl	đạt
+
+jao	đoạ
+jauo	đoạo
+jajo	đoại
+jaco	đoạc
+jafo	đoạng
+jano	đoạn
+jamo	đoạm
+javo	đoạp
+jaro	đoạt
+
+jel	đẹ
+jeul	đẹo
+jejl	đẹi
+jecl	đẹc
+jefl	đẹng
+jenl	đẹn
+jeml	đẹm
+jevl	đẹp
+jerl	đẹt
+
+jeo	đoẹ
+jeuo	đoẹo
+jejo	đoẹi
+jeco	đoẹc
+jefo	đoẹng
+jeno	đoẹn
+jemo	đoẹm
+jevo	đoẹp
+jero	đoẹt
+
+jdl	đệ
+jdul	đệu
+jdjl	đệy
+jdcl	đệch
+jdfl	đệnh
+jdnl	đện
+jdml	đệm
+jdvl	đệp
+jdrl	đệt
+
+jdo	đuệ
+jduo	đuệu
+jdjo	đuệy
+jdco	đuệch
+jdfo	đuệnh
+jdno	đuện
+jdmo	đuệm
+jdvo	đuệp
+jdro	đuệt
+
+jil	đị
+jiul	địu
+jijl	đỵ
+jicl	địch
+jifl	định
+jinl	địn
+jiml	địm
+jivl	địp
+jirl	địt
+
+jio	đuị
+jiuo	đuỵu
+jijo	đuỵ
+jico	đuỵch
+jifo	đuỵnh
+jino	đuỵn
+jimo	đuỵm
+jivo	đuỵp
+jiro	đuỵt
+
+jkl	địa
+jkul	điệu
+jkjl	điệy
+jkcl	điệc
+jkfl	điệng
+jknl	điện
+jkml	điệm
+jkvl	điệp
+jkrl	điệt
+
+jko	đuỵa
+jkuo	đuyệu
+jkjo	đuyệy
+jkco	đuyệc
+jkfo	đuyệng
+jkno	đuyện
+jkmo	đuyệm
+jkvo	đuyệp
+jkro	đuyệt
+
+jll	độ
+jlul	độu
+jljl	đội
+jlcl	độc
+jlfl	động
+jlnl	độn
+jlml	độm
+jlvl	độp
+jlrl	đột
+
+jlo	đoộ
+jluo	đoộu
+jljo	đoội
+jlco	đoộc
+jlfo	đoộng
+jlno	đoộn
+jlmo	đoộm
+jlvo	đoộp
+jlro	đoột
+
+jsl	đạnh
+jsul	đậu
+jsjl	đậy
+jscl	đậc
+jsfl	đậng
+jsnl	đận
+jsml	đậm
+jsvl	đập
+jsrl	đật
+
+jso	đoạnh
+jsuo	đuậu
+jsjo	đuậy
+jsco	đuậc
+jsfo	đuậng
+jsno	đuận
+jsmo	đuậm
+jsvo	đuập
+jsro	đuật
+
+jql	đạch
+jqul	đạu
+jqjl	đạy
+jqcl	đặc
+jqfl	đặng
+jqnl	đặn
+jqml	đặm
+jqvl	đặp
+jqrl	đặt
+
+jqo	đoạch
+jquo	đoạu
+jqjo	đoạy
+jqco	đoặc
+jqfo	đoặng
+jqno	đoặn
+jqmo	đoặm
+jqvo	đoặp
+jqro	đoặt
+
+jzl	đự
+jzul	đựu
+jzjl	đựi
+jzcl	đực
+jzfl	đựng
+jznl	đựn
+jzml	đựm
+jzvl	đựp
+jzrl	đựt
+
+jzo	đựa
+jzuo	đượu
+jzjo	đượi
+jzco	được
+jzfo	đượng
+jzno	đượn
+jzmo	đượm
+jzvo	đượp
+jzro	đượt
+
+jpl	đụ
+jpul	đụu
+jpjl	đụi
+jpcl	đục
+jpfl	đụng
+jpnl	đụn
+jpml	đụm
+jpvl	đụp
+jprl	đụt
+
+jpo	đụa
+jpuo	đuộu
+jpjo	đuội
+jpco	đuộc
+jpfo	đuộng
+jpno	đuộn
+jpmo	đuộm
+jpvo	đuộp
+jpro	đuột
+
+dwl	dợ
+dwul	dợu
+dwjl	dợi
+dwcl	dợc
+dwfl	dợng
+dwnl	dợn
+dwml	dợm
+dwvl	dợp
+dwrl	dợt
+
+dwo	duợ
+dwuo	duợu
+dwjo	duợi
+dwco	duợc
+dwfo	duợng
+dwno	duợn
+dwmo	duợm
+dwvo	duợp
+dwro	duợt
+
+dol	dọ
+doul	dọu
+dojl	dọi
+docl	dọc
+dofl	dọng
+donl	dọn
+doml	dọm
+dovl	dọp
+dorl	dọt
+
+doo	doọ
+douo	doọu
+dojo	doọi
+doco	doọc
+dofo	doọng
+dono	doọn
+domo	doọm
+dovo	doọp
+doro	doọt
+
+dal	dạ
+daul	dạo
+dajl	dại
+dacl	dạc
+dafl	dạng
+danl	dạn
+daml	dạm
+davl	dạp
+darl	dạt
+
+dao	doạ
+dauo	doạo
+dajo	doại
+daco	doạc
+dafo	doạng
+dano	doạn
+damo	doạm
+davo	doạp
+daro	doạt
+
+del	dẹ
+deul	dẹo
+dejl	dẹi
+decl	dẹc
+defl	dẹng
+denl	dẹn
+deml	dẹm
+devl	dẹp
+derl	dẹt
+
+deo	doẹ
+deuo	doẹo
+dejo	doẹi
+deco	doẹc
+defo	doẹng
+deno	doẹn
+demo	doẹm
+devo	doẹp
+dero	doẹt
+
+ddl	dệ
+ddul	dệu
+ddjl	dệy
+ddcl	dệch
+ddfl	dệnh
+ddnl	dện
+ddml	dệm
+ddvl	dệp
+ddrl	dệt
+
+ddo	duệ
+dduo	duệu
+ddjo	duệy
+ddco	duệch
+ddfo	duệnh
+ddno	duện
+ddmo	duệm
+ddvo	duệp
+ddro	duệt
+
+dil	dị
+diul	dịu
+dijl	dỵ
+dicl	dịch
+difl	dịnh
+dinl	dịn
+diml	dịm
+divl	dịp
+dirl	dịt
+
+dio	duị
+diuo	duỵu
+dijo	duỵ
+dico	duỵch
+difo	duỵnh
+dino	duỵn
+dimo	duỵm
+divo	duỵp
+diro	duỵt
+
+dkl	dịa
+dkul	diệu
+dkjl	diệy
+dkcl	diệc
+dkfl	diệng
+dknl	diện
+dkml	diệm
+dkvl	diệp
+dkrl	diệt
+
+dko	duỵa
+dkuo	duyệu
+dkjo	duyệy
+dkco	duyệc
+dkfo	duyệng
+dkno	duyện
+dkmo	duyệm
+dkvo	duyệp
+dkro	duyệt
+
+dll	dộ
+dlul	dộu
+dljl	dội
+dlcl	dộc
+dlfl	dộng
+dlnl	dộn
+dlml	dộm
+dlvl	dộp
+dlrl	dột
+
+dlo	doộ
+dluo	doộu
+dljo	doội
+dlco	doộc
+dlfo	doộng
+dlno	doộn
+dlmo	doộm
+dlvo	doộp
+dlro	doột
+
+dsl	dạnh
+dsul	dậu
+dsjl	dậy
+dscl	dậc
+dsfl	dậng
+dsnl	dận
+dsml	dậm
+dsvl	dập
+dsrl	dật
+
+dso	doạnh
+dsuo	duậu
+dsjo	duậy
+dsco	duậc
+dsfo	duậng
+dsno	duận
+dsmo	duậm
+dsvo	duập
+dsro	duật
+
+dql	dạch
+dqul	dạu
+dqjl	dạy
+dqcl	dặc
+dqfl	dặng
+dqnl	dặn
+dqml	dặm
+dqvl	dặp
+dqrl	dặt
+
+dqo	doạch
+dquo	doạu
+dqjo	doạy
+dqco	doặc
+dqfo	doặng
+dqno	doặn
+dqmo	doặm
+dqvo	doặp
+dqro	doặt
+
+dzl	dự
+dzul	dựu
+dzjl	dựi
+dzcl	dực
+dzfl	dựng
+dznl	dựn
+dzml	dựm
+dzvl	dựp
+dzrl	dựt
+
+dzo	dựa
+dzuo	dượu
+dzjo	dượi
+dzco	dược
+dzfo	dượng
+dzno	dượn
+dzmo	dượm
+dzvo	dượp
+dzro	dượt
+
+dpl	dụ
+dpul	dụu
+dpjl	dụi
+dpcl	dục
+dpfl	dụng
+dpnl	dụn
+dpml	dụm
+dpvl	dụp
+dprl	dụt
+
+dpo	dụa
+dpuo	duộu
+dpjo	duội
+dpco	duộc
+dpfo	duộng
+dpno	duộn
+dpmo	duộm
+dpvo	duộp
+dpro	duột
+
+uwl	chợ
+uwul	chợu
+uwjl	chợi
+uwcl	chợc
+uwfl	chợng
+uwnl	chợn
+uwml	chợm
+uwvl	chợp
+uwrl	chợt
+
+uwo	chuợ
+uwuo	chuợu
+uwjo	chuợi
+uwco	chuợc
+uwfo	chuợng
+uwno	chuợn
+uwmo	chuợm
+uwvo	chuợp
+uwro	chuợt
+
+uol	chọ
+uoul	chọu
+uojl	chọi
+uocl	chọc
+uofl	chọng
+uonl	chọn
+uoml	chọm
+uovl	chọp
+uorl	chọt
+
+uoo	choọ
+uouo	choọu
+uojo	choọi
+uoco	choọc
+uofo	choọng
+uono	choọn
+uomo	choọm
+uovo	choọp
+uoro	choọt
+
+ual	chạ
+uaul	chạo
+uajl	chại
+uacl	chạc
+uafl	chạng
+uanl	chạn
+uaml	chạm
+uavl	chạp
+uarl	chạt
+
+uao	choạ
+uauo	choạo
+uajo	choại
+uaco	choạc
+uafo	choạng
+uano	choạn
+uamo	choạm
+uavo	choạp
+uaro	choạt
+
+uel	chẹ
+ueul	chẹo
+uejl	chẹi
+uecl	chẹc
+uefl	chẹng
+uenl	chẹn
+ueml	chẹm
+uevl	chẹp
+uerl	chẹt
+
+ueo	choẹ
+ueuo	choẹo
+uejo	choẹi
+ueco	choẹc
+uefo	choẹng
+ueno	choẹn
+uemo	choẹm
+uevo	choẹp
+uero	choẹt
+
+udl	chệ
+udul	chệu
+udjl	chệy
+udcl	chệch
+udfl	chệnh
+udnl	chện
+udml	chệm
+udvl	chệp
+udrl	chệt
+
+udo	chuệ
+uduo	chuệu
+udjo	chuệy
+udco	chuệch
+udfo	chuệnh
+udno	chuện
+udmo	chuệm
+udvo	chuệp
+udro	chuệt
+
+uil	chị
+uiul	chịu
+uijl	chỵ
+uicl	chịch
+uifl	chịnh
+uinl	chịn
+uiml	chịm
+uivl	chịp
+uirl	chịt
+
+uio	chuị
+uiuo	chuỵu
+uijo	chuỵ
+uico	chuỵch
+uifo	chuỵnh
+uino	chuỵn
+uimo	chuỵm
+uivo	chuỵp
+uiro	chuỵt
+
+ukl	chịa
+ukul	chiệu
+ukjl	chiệy
+ukcl	chiệc
+ukfl	chiệng
+uknl	chiện
+ukml	chiệm
+ukvl	chiệp
+ukrl	chiệt
+
+uko	chuỵa
+ukuo	chuyệu
+ukjo	chuyệy
+ukco	chuyệc
+ukfo	chuyệng
+ukno	chuyện
+ukmo	chuyệm
+ukvo	chuyệp
+ukro	chuyệt
+
+ull	chộ
+ulul	chộu
+uljl	chội
+ulcl	chộc
+ulfl	chộng
+ulnl	chộn
+ulml	chộm
+ulvl	chộp
+ulrl	chột
+
+ulo	choộ
+uluo	choộu
+uljo	choội
+ulco	choộc
+ulfo	choộng
+ulno	choộn
+ulmo	choộm
+ulvo	choộp
+ulro	choột
+
+usl	chạnh
+usul	chậu
+usjl	chậy
+uscl	chậc
+usfl	chậng
+usnl	chận
+usml	chậm
+usvl	chập
+usrl	chật
+
+uso	choạnh
+usuo	chuậu
+usjo	chuậy
+usco	chuậc
+usfo	chuậng
+usno	chuận
+usmo	chuậm
+usvo	chuập
+usro	chuật
+
+uql	chạch
+uqul	chạu
+uqjl	chạy
+uqcl	chặc
+uqfl	chặng
+uqnl	chặn
+uqml	chặm
+uqvl	chặp
+uqrl	chặt
+
+uqo	choạch
+uquo	choạu
+uqjo	choạy
+uqco	choặc
+uqfo	choặng
+uqno	choặn
+uqmo	choặm
+uqvo	choặp
+uqro	choặt
+
+uzl	chự
+uzul	chựu
+uzjl	chựi
+uzcl	chực
+uzfl	chựng
+uznl	chựn
+uzml	chựm
+uzvl	chựp
+uzrl	chựt
+
+uzo	chựa
+uzuo	chượu
+uzjo	chượi
+uzco	chược
+uzfo	chượng
+uzno	chượn
+uzmo	chượm
+uzvo	chượp
+uzro	chượt
+
+upl	chụ
+upul	chụu
+upjl	chụi
+upcl	chục
+upfl	chụng
+upnl	chụn
+upml	chụm
+upvl	chụp
+uprl	chụt
+
+upo	chụa
+upuo	chuộu
+upjo	chuội
+upco	chuộc
+upfo	chuộng
+upno	chuộn
+upmo	chuộm
+upvo	chuộp
+upro	chuột
+
+owl	trợ
+owul	trợu
+owjl	trợi
+owcl	trợc
+owfl	trợng
+ownl	trợn
+owml	trợm
+owvl	trợp
+owrl	trợt
+
+owo	truợ
+owuo	truợu
+owjo	truợi
+owco	truợc
+owfo	truợng
+owno	truợn
+owmo	truợm
+owvo	truợp
+owro	truợt
+
+ool	trọ
+ooul	trọu
+oojl	trọi
+oocl	trọc
+oofl	trọng
+oonl	trọn
+ooml	trọm
+oovl	trọp
+oorl	trọt
+
+ooo	troọ
+oouo	troọu
+oojo	troọi
+ooco	troọc
+oofo	troọng
+oono	troọn
+oomo	troọm
+oovo	troọp
+ooro	troọt
+
+oal	trạ
+oaul	trạo
+oajl	trại
+oacl	trạc
+oafl	trạng
+oanl	trạn
+oaml	trạm
+oavl	trạp
+oarl	trạt
+
+oao	troạ
+oauo	troạo
+oajo	troại
+oaco	troạc
+oafo	troạng
+oano	troạn
+oamo	troạm
+oavo	troạp
+oaro	troạt
+
+oel	trẹ
+oeul	trẹo
+oejl	trẹi
+oecl	trẹc
+oefl	trẹng
+oenl	trẹn
+oeml	trẹm
+oevl	trẹp
+oerl	trẹt
+
+oeo	troẹ
+oeuo	troẹo
+oejo	troẹi
+oeco	troẹc
+oefo	troẹng
+oeno	troẹn
+oemo	troẹm
+oevo	troẹp
+oero	troẹt
+
+odl	trệ
+odul	trệu
+odjl	trệy
+odcl	trệch
+odfl	trệnh
+odnl	trện
+odml	trệm
+odvl	trệp
+odrl	trệt
+
+odo	truệ
+oduo	truệu
+odjo	truệy
+odco	truệch
+odfo	truệnh
+odno	truện
+odmo	truệm
+odvo	truệp
+odro	truệt
+
+oil	trị
+oiul	trịu
+oijl	trỵ
+oicl	trịch
+oifl	trịnh
+oinl	trịn
+oiml	trịm
+oivl	trịp
+oirl	trịt
+
+oio	truị
+oiuo	truỵu
+oijo	truỵ
+oico	truỵch
+oifo	truỵnh
+oino	truỵn
+oimo	truỵm
+oivo	truỵp
+oiro	truỵt
+
+okl	trịa
+okul	triệu
+okjl	triệy
+okcl	triệc
+okfl	triệng
+oknl	triện
+okml	triệm
+okvl	triệp
+okrl	triệt
+
+oko	truỵa
+okuo	truyệu
+okjo	truyệy
+okco	truyệc
+okfo	truyệng
+okno	truyện
+okmo	truyệm
+okvo	truyệp
+okro	truyệt
+
+oll	trộ
+olul	trộu
+oljl	trội
+olcl	trộc
+olfl	trộng
+olnl	trộn
+olml	trộm
+olvl	trộp
+olrl	trột
+
+olo	troộ
+oluo	troộu
+oljo	troội
+olco	troộc
+olfo	troộng
+olno	troộn
+olmo	troộm
+olvo	troộp
+olro	troột
+
+osl	trạnh
+osul	trậu
+osjl	trậy
+oscl	trậc
+osfl	trậng
+osnl	trận
+osml	trậm
+osvl	trập
+osrl	trật
+
+oso	troạnh
+osuo	truậu
+osjo	truậy
+osco	truậc
+osfo	truậng
+osno	truận
+osmo	truậm
+osvo	truập
+osro	truật
+
+oql	trạch
+oqul	trạu
+oqjl	trạy
+oqcl	trặc
+oqfl	trặng
+oqnl	trặn
+oqml	trặm
+oqvl	trặp
+oqrl	trặt
+
+oqo	troạch
+oquo	troạu
+oqjo	troạy
+oqco	troặc
+oqfo	troặng
+oqno	troặn
+oqmo	troặm
+oqvo	troặp
+oqro	troặt
+
+ozl	trự
+ozul	trựu
+ozjl	trựi
+ozcl	trực
+ozfl	trựng
+oznl	trựn
+ozml	trựm
+ozvl	trựp
+ozrl	trựt
+
+ozo	trựa
+ozuo	trượu
+ozjo	trượi
+ozco	trược
+ozfo	trượng
+ozno	trượn
+ozmo	trượm
+ozvo	trượp
+ozro	trượt
+
+opl	trụ
+opul	trụu
+opjl	trụi
+opcl	trục
+opfl	trụng
+opnl	trụn
+opml	trụm
+opvl	trụp
+oprl	trụt
+
+opo	trụa
+opuo	truộu
+opjo	truội
+opco	truộc
+opfo	truộng
+opno	truộn
+opmo	truộm
+opvo	truộp
+opro	truột
+
+rwl	rợ
+rwul	rợu
+rwjl	rợi
+rwcl	rợc
+rwfl	rợng
+rwnl	rợn
+rwml	rợm
+rwvl	rợp
+rwrl	rợt
+
+rwo	ruợ
+rwuo	ruợu
+rwjo	ruợi
+rwco	ruợc
+rwfo	ruợng
+rwno	ruợn
+rwmo	ruợm
+rwvo	ruợp
+rwro	ruợt
+
+rol	rọ
+roul	rọu
+rojl	rọi
+rocl	rọc
+rofl	rọng
+ronl	rọn
+roml	rọm
+rovl	rọp
+rorl	rọt
+
+roo	roọ
+rouo	roọu
+rojo	roọi
+roco	roọc
+rofo	roọng
+rono	roọn
+romo	roọm
+rovo	roọp
+roro	roọt
+
+ral	rạ
+raul	rạo
+rajl	rại
+racl	rạc
+rafl	rạng
+ranl	rạn
+raml	rạm
+ravl	rạp
+rarl	rạt
+
+rao	roạ
+rauo	roạo
+rajo	roại
+raco	roạc
+rafo	roạng
+rano	roạn
+ramo	roạm
+ravo	roạp
+raro	roạt
+
+rel	rẹ
+reul	rẹo
+rejl	rẹi
+recl	rẹc
+refl	rẹng
+renl	rẹn
+reml	rẹm
+revl	rẹp
+rerl	rẹt
+
+reo	roẹ
+reuo	roẹo
+rejo	roẹi
+reco	roẹc
+refo	roẹng
+reno	roẹn
+remo	roẹm
+revo	roẹp
+rero	roẹt
+
+rdl	rệ
+rdul	rệu
+rdjl	rệy
+rdcl	rệch
+rdfl	rệnh
+rdnl	rện
+rdml	rệm
+rdvl	rệp
+rdrl	rệt
+
+rdo	ruệ
+rduo	ruệu
+rdjo	ruệy
+rdco	ruệch
+rdfo	ruệnh
+rdno	ruện
+rdmo	ruệm
+rdvo	ruệp
+rdro	ruệt
+
+ril	rị
+riul	rịu
+rijl	rỵ
+ricl	rịch
+rifl	rịnh
+rinl	rịn
+riml	rịm
+rivl	rịp
+rirl	rịt
+
+rio	ruị
+riuo	ruỵu
+rijo	ruỵ
+rico	ruỵch
+rifo	ruỵnh
+rino	ruỵn
+rimo	ruỵm
+rivo	ruỵp
+riro	ruỵt
+
+rkl	rịa
+rkul	riệu
+rkjl	riệy
+rkcl	riệc
+rkfl	riệng
+rknl	riện
+rkml	riệm
+rkvl	riệp
+rkrl	riệt
+
+rko	ruỵa
+rkuo	ruyệu
+rkjo	ruyệy
+rkco	ruyệc
+rkfo	ruyệng
+rkno	ruyện
+rkmo	ruyệm
+rkvo	ruyệp
+rkro	ruyệt
+
+rll	rộ
+rlul	rộu
+rljl	rội
+rlcl	rộc
+rlfl	rộng
+rlnl	rộn
+rlml	rộm
+rlvl	rộp
+rlrl	rột
+
+rlo	roộ
+rluo	roộu
+rljo	roội
+rlco	roộc
+rlfo	roộng
+rlno	roộn
+rlmo	roộm
+rlvo	roộp
+rlro	roột
+
+rsl	rạnh
+rsul	rậu
+rsjl	rậy
+rscl	rậc
+rsfl	rậng
+rsnl	rận
+rsml	rậm
+rsvl	rập
+rsrl	rật
+
+rso	roạnh
+rsuo	ruậu
+rsjo	ruậy
+rsco	ruậc
+rsfo	ruậng
+rsno	ruận
+rsmo	ruậm
+rsvo	ruập
+rsro	ruật
+
+rql	rạch
+rqul	rạu
+rqjl	rạy
+rqcl	rặc
+rqfl	rặng
+rqnl	rặn
+rqml	rặm
+rqvl	rặp
+rqrl	rặt
+
+rqo	roạch
+rquo	roạu
+rqjo	roạy
+rqco	roặc
+rqfo	roặng
+rqno	roặn
+rqmo	roặm
+rqvo	roặp
+rqro	roặt
+
+rzl	rự
+rzul	rựu
+rzjl	rựi
+rzcl	rực
+rzfl	rựng
+rznl	rựn
+rzml	rựm
+rzvl	rựp
+rzrl	rựt
+
+rzo	rựa
+rzuo	rượu
+rzjo	rượi
+rzco	rược
+rzfo	rượng
+rzno	rượn
+rzmo	rượm
+rzvo	rượp
+rzro	rượt
+
+rpl	rụ
+rpul	rụu
+rpjl	rụi
+rpcl	rục
+rpfl	rụng
+rpnl	rụn
+rpml	rụm
+rpvl	rụp
+rprl	rụt
+
+rpo	rụa
+rpuo	ruộu
+rpjo	ruội
+rpco	ruộc
+rpfo	ruộng
+rpno	ruộn
+rpmo	ruộm
+rpvo	ruộp
+rpro	ruột
+
+lwl	lợ
+lwul	lợu
+lwjl	lợi
+lwcl	lợc
+lwfl	lợng
+lwnl	lợn
+lwml	lợm
+lwvl	lợp
+lwrl	lợt
+
+lwo	luợ
+lwuo	luợu
+lwjo	luợi
+lwco	luợc
+lwfo	luợng
+lwno	luợn
+lwmo	luợm
+lwvo	luợp
+lwro	luợt
+
+lol	lọ
+loul	lọu
+lojl	lọi
+locl	lọc
+lofl	lọng
+lonl	lọn
+loml	lọm
+lovl	lọp
+lorl	lọt
+
+loo	loọ
+louo	loọu
+lojo	loọi
+loco	loọc
+lofo	loọng
+lono	loọn
+lomo	loọm
+lovo	loọp
+loro	loọt
+
+lal	lạ
+laul	lạo
+lajl	lại
+lacl	lạc
+lafl	lạng
+lanl	lạn
+laml	lạm
+lavl	lạp
+larl	lạt
+
+lao	loạ
+lauo	loạo
+lajo	loại
+laco	loạc
+lafo	loạng
+lano	loạn
+lamo	loạm
+lavo	loạp
+laro	loạt
+
+lel	lẹ
+leul	lẹo
+lejl	lẹi
+lecl	lẹc
+lefl	lẹng
+lenl	lẹn
+leml	lẹm
+levl	lẹp
+lerl	lẹt
+
+leo	loẹ
+leuo	loẹo
+lejo	loẹi
+leco	loẹc
+lefo	loẹng
+leno	loẹn
+lemo	loẹm
+levo	loẹp
+lero	loẹt
+
+ldl	lệ
+ldul	lệu
+ldjl	lệy
+ldcl	lệch
+ldfl	lệnh
+ldnl	lện
+ldml	lệm
+ldvl	lệp
+ldrl	lệt
+
+ldo	luệ
+lduo	luệu
+ldjo	luệy
+ldco	luệch
+ldfo	luệnh
+ldno	luện
+ldmo	luệm
+ldvo	luệp
+ldro	luệt
+
+lil	lị
+liul	lịu
+lijl	lỵ
+licl	lịch
+lifl	lịnh
+linl	lịn
+liml	lịm
+livl	lịp
+lirl	lịt
+
+lio	luị
+liuo	luỵu
+lijo	luỵ
+lico	luỵch
+lifo	luỵnh
+lino	luỵn
+limo	luỵm
+livo	luỵp
+liro	luỵt
+
+lkl	lịa
+lkul	liệu
+lkjl	liệy
+lkcl	liệc
+lkfl	liệng
+lknl	liện
+lkml	liệm
+lkvl	liệp
+lkrl	liệt
+
+lko	luỵa
+lkuo	luyệu
+lkjo	luyệy
+lkco	luyệc
+lkfo	luyệng
+lkno	luyện
+lkmo	luyệm
+lkvo	luyệp
+lkro	luyệt
+
+lll	lộ
+llul	lộu
+lljl	lội
+llcl	lộc
+llfl	lộng
+llnl	lộn
+llml	lộm
+llvl	lộp
+llrl	lột
+
+llo	loộ
+lluo	loộu
+lljo	loội
+llco	loộc
+llfo	loộng
+llno	loộn
+llmo	loộm
+llvo	loộp
+llro	loột
+
+lsl	lạnh
+lsul	lậu
+lsjl	lậy
+lscl	lậc
+lsfl	lậng
+lsnl	lận
+lsml	lậm
+lsvl	lập
+lsrl	lật
+
+lso	loạnh
+lsuo	luậu
+lsjo	luậy
+lsco	luậc
+lsfo	luậng
+lsno	luận
+lsmo	luậm
+lsvo	luập
+lsro	luật
+
+lql	lạch
+lqul	lạu
+lqjl	lạy
+lqcl	lặc
+lqfl	lặng
+lqnl	lặn
+lqml	lặm
+lqvl	lặp
+lqrl	lặt
+
+lqo	loạch
+lquo	loạu
+lqjo	loạy
+lqco	loặc
+lqfo	loặng
+lqno	loặn
+lqmo	loặm
+lqvo	loặp
+lqro	loặt
+
+lzl	lự
+lzul	lựu
+lzjl	lựi
+lzcl	lực
+lzfl	lựng
+lznl	lựn
+lzml	lựm
+lzvl	lựp
+lzrl	lựt
+
+lzo	lựa
+lzuo	lượu
+lzjo	lượi
+lzco	lược
+lzfo	lượng
+lzno	lượn
+lzmo	lượm
+lzvo	lượp
+lzro	lượt
+
+lpl	lụ
+lpul	lụu
+lpjl	lụi
+lpcl	lục
+lpfl	lụng
+lpnl	lụn
+lpml	lụm
+lpvl	lụp
+lprl	lụt
+
+lpo	lụa
+lpuo	luộu
+lpjo	luội
+lpco	luộc
+lpfo	luộng
+lpno	luộn
+lpmo	luộm
+lpvo	luộp
+lpro	luột
+
+nwl	nợ
+nwul	nợu
+nwjl	nợi
+nwcl	nợc
+nwfl	nợng
+nwnl	nợn
+nwml	nợm
+nwvl	nợp
+nwrl	nợt
+
+nwo	nuợ
+nwuo	nuợu
+nwjo	nuợi
+nwco	nuợc
+nwfo	nuợng
+nwno	nuợn
+nwmo	nuợm
+nwvo	nuợp
+nwro	nuợt
+
+nol	nọ
+noul	nọu
+nojl	nọi
+nocl	nọc
+nofl	nọng
+nonl	nọn
+noml	nọm
+novl	nọp
+norl	nọt
+
+noo	noọ
+nouo	noọu
+nojo	noọi
+noco	noọc
+nofo	noọng
+nono	noọn
+nomo	noọm
+novo	noọp
+noro	noọt
+
+nal	nạ
+naul	nạo
+najl	nại
+nacl	nạc
+nafl	nạng
+nanl	nạn
+naml	nạm
+navl	nạp
+narl	nạt
+
+nao	noạ
+nauo	noạo
+najo	noại
+naco	noạc
+nafo	noạng
+nano	noạn
+namo	noạm
+navo	noạp
+naro	noạt
+
+nel	nẹ
+neul	nẹo
+nejl	nẹi
+necl	nẹc
+nefl	nẹng
+nenl	nẹn
+neml	nẹm
+nevl	nẹp
+nerl	nẹt
+
+neo	noẹ
+neuo	noẹo
+nejo	noẹi
+neco	noẹc
+nefo	noẹng
+neno	noẹn
+nemo	noẹm
+nevo	noẹp
+nero	noẹt
+
+ndl	nệ
+ndul	nệu
+ndjl	nệy
+ndcl	nệch
+ndfl	nệnh
+ndnl	nện
+ndml	nệm
+ndvl	nệp
+ndrl	nệt
+
+ndo	nuệ
+nduo	nuệu
+ndjo	nuệy
+ndco	nuệch
+ndfo	nuệnh
+ndno	nuện
+ndmo	nuệm
+ndvo	nuệp
+ndro	nuệt
+
+nil	nị
+niul	nịu
+nijl	nỵ
+nicl	nịch
+nifl	nịnh
+ninl	nịn
+niml	nịm
+nivl	nịp
+nirl	nịt
+
+nio	nuị
+niuo	nuỵu
+nijo	nuỵ
+nico	nuỵch
+nifo	nuỵnh
+nino	nuỵn
+nimo	nuỵm
+nivo	nuỵp
+niro	nuỵt
+
+nkl	nịa
+nkul	niệu
+nkjl	niệy
+nkcl	niệc
+nkfl	niệng
+nknl	niện
+nkml	niệm
+nkvl	niệp
+nkrl	niệt
+
+nko	nuỵa
+nkuo	nuyệu
+nkjo	nuyệy
+nkco	nuyệc
+nkfo	nuyệng
+nkno	nuyện
+nkmo	nuyệm
+nkvo	nuyệp
+nkro	nuyệt
+
+nll	nộ
+nlul	nộu
+nljl	nội
+nlcl	nộc
+nlfl	nộng
+nlnl	nộn
+nlml	nộm
+nlvl	nộp
+nlrl	nột
+
+nlo	noộ
+nluo	noộu
+nljo	noội
+nlco	noộc
+nlfo	noộng
+nlno	noộn
+nlmo	noộm
+nlvo	noộp
+nlro	noột
+
+nsl	nạnh
+nsul	nậu
+nsjl	nậy
+nscl	nậc
+nsfl	nậng
+nsnl	nận
+nsml	nậm
+nsvl	nập
+nsrl	nật
+
+nso	noạnh
+nsuo	nuậu
+nsjo	nuậy
+nsco	nuậc
+nsfo	nuậng
+nsno	nuận
+nsmo	nuậm
+nsvo	nuập
+nsro	nuật
+
+nql	nạch
+nqul	nạu
+nqjl	nạy
+nqcl	nặc
+nqfl	nặng
+nqnl	nặn
+nqml	nặm
+nqvl	nặp
+nqrl	nặt
+
+nqo	noạch
+nquo	noạu
+nqjo	noạy
+nqco	noặc
+nqfo	noặng
+nqno	noặn
+nqmo	noặm
+nqvo	noặp
+nqro	noặt
+
+nzl	nự
+nzul	nựu
+nzjl	nựi
+nzcl	nực
+nzfl	nựng
+nznl	nựn
+nzml	nựm
+nzvl	nựp
+nzrl	nựt
+
+nzo	nựa
+nzuo	nượu
+nzjo	nượi
+nzco	nược
+nzfo	nượng
+nzno	nượn
+nzmo	nượm
+nzvo	nượp
+nzro	nượt
+
+npl	nụ
+npul	nụu
+npjl	nụi
+npcl	nục
+npfl	nụng
+npnl	nụn
+npml	nụm
+npvl	nụp
+nprl	nụt
+
+npo	nụa
+npuo	nuộu
+npjo	nuội
+npco	nuộc
+npfo	nuộng
+npno	nuộn
+npmo	nuộm
+npvo	nuộp
+npro	nuột
+
+iwl	nhợ
+iwul	nhợu
+iwjl	nhợi
+iwcl	nhợc
+iwfl	nhợng
+iwnl	nhợn
+iwml	nhợm
+iwvl	nhợp
+iwrl	nhợt
+
+iwo	nhuợ
+iwuo	nhuợu
+iwjo	nhuợi
+iwco	nhuợc
+iwfo	nhuợng
+iwno	nhuợn
+iwmo	nhuợm
+iwvo	nhuợp
+iwro	nhuợt
+
+iol	nhọ
+ioul	nhọu
+iojl	nhọi
+iocl	nhọc
+iofl	nhọng
+ionl	nhọn
+ioml	nhọm
+iovl	nhọp
+iorl	nhọt
+
+ioo	nhoọ
+iouo	nhoọu
+iojo	nhoọi
+ioco	nhoọc
+iofo	nhoọng
+iono	nhoọn
+iomo	nhoọm
+iovo	nhoọp
+ioro	nhoọt
+
+ial	nhạ
+iaul	nhạo
+iajl	nhại
+iacl	nhạc
+iafl	nhạng
+ianl	nhạn
+iaml	nhạm
+iavl	nhạp
+iarl	nhạt
+
+iao	nhoạ
+iauo	nhoạo
+iajo	nhoại
+iaco	nhoạc
+iafo	nhoạng
+iano	nhoạn
+iamo	nhoạm
+iavo	nhoạp
+iaro	nhoạt
+
+iel	nhẹ
+ieul	nhẹo
+iejl	nhẹi
+iecl	nhẹc
+iefl	nhẹng
+ienl	nhẹn
+ieml	nhẹm
+ievl	nhẹp
+ierl	nhẹt
+
+ieo	nhoẹ
+ieuo	nhoẹo
+iejo	nhoẹi
+ieco	nhoẹc
+iefo	nhoẹng
+ieno	nhoẹn
+iemo	nhoẹm
+ievo	nhoẹp
+iero	nhoẹt
+
+idl	nhệ
+idul	nhệu
+idjl	nhệy
+idcl	nhệch
+idfl	nhệnh
+idnl	nhện
+idml	nhệm
+idvl	nhệp
+idrl	nhệt
+
+ido	nhuệ
+iduo	nhuệu
+idjo	nhuệy
+idco	nhuệch
+idfo	nhuệnh
+idno	nhuện
+idmo	nhuệm
+idvo	nhuệp
+idro	nhuệt
+
+iil	nhị
+iiul	nhịu
+iijl	nhỵ
+iicl	nhịch
+iifl	nhịnh
+iinl	nhịn
+iiml	nhịm
+iivl	nhịp
+iirl	nhịt
+
+iio	nhuị
+iiuo	nhuỵu
+iijo	nhuỵ
+iico	nhuỵch
+iifo	nhuỵnh
+iino	nhuỵn
+iimo	nhuỵm
+iivo	nhuỵp
+iiro	nhuỵt
+
+ikl	nhịa
+ikul	nhiệu
+ikjl	nhiệy
+ikcl	nhiệc
+ikfl	nhiệng
+iknl	nhiện
+ikml	nhiệm
+ikvl	nhiệp
+ikrl	nhiệt
+
+iko	nhuỵa
+ikuo	nhuyệu
+ikjo	nhuyệy
+ikco	nhuyệc
+ikfo	nhuyệng
+ikno	nhuyện
+ikmo	nhuyệm
+ikvo	nhuyệp
+ikro	nhuyệt
+
+ill	nhộ
+ilul	nhộu
+iljl	nhội
+ilcl	nhộc
+ilfl	nhộng
+ilnl	nhộn
+ilml	nhộm
+ilvl	nhộp
+ilrl	nhột
+
+ilo	nhoộ
+iluo	nhoộu
+iljo	nhoội
+ilco	nhoộc
+ilfo	nhoộng
+ilno	nhoộn
+ilmo	nhoộm
+ilvo	nhoộp
+ilro	nhoột
+
+isl	nhạnh
+isul	nhậu
+isjl	nhậy
+iscl	nhậc
+isfl	nhậng
+isnl	nhận
+isml	nhậm
+isvl	nhập
+isrl	nhật
+
+iso	nhoạnh
+isuo	nhuậu
+isjo	nhuậy
+isco	nhuậc
+isfo	nhuậng
+isno	nhuận
+ismo	nhuậm
+isvo	nhuập
+isro	nhuật
+
+iql	nhạch
+iqul	nhạu
+iqjl	nhạy
+iqcl	nhặc
+iqfl	nhặng
+iqnl	nhặn
+iqml	nhặm
+iqvl	nhặp
+iqrl	nhặt
+
+iqo	nhoạch
+iquo	nhoạu
+iqjo	nhoạy
+iqco	nhoặc
+iqfo	nhoặng
+iqno	nhoặn
+iqmo	nhoặm
+iqvo	nhoặp
+iqro	nhoặt
+
+izl	nhự
+izul	nhựu
+izjl	nhựi
+izcl	nhực
+izfl	nhựng
+iznl	nhựn
+izml	nhựm
+izvl	nhựp
+izrl	nhựt
+
+izo	nhựa
+izuo	nhượu
+izjo	nhượi
+izco	nhược
+izfo	nhượng
+izno	nhượn
+izmo	nhượm
+izvo	nhượp
+izro	nhượt
+
+ipl	nhụ
+ipul	nhụu
+ipjl	nhụi
+ipcl	nhục
+ipfl	nhụng
+ipnl	nhụn
+ipml	nhụm
+ipvl	nhụp
+iprl	nhụt
+
+ipo	nhụa
+ipuo	nhuộu
+ipjo	nhuội
+ipco	nhuộc
+ipfo	nhuộng
+ipno	nhuộn
+ipmo	nhuộm
+ipvo	nhuộp
+ipro	nhuột
+
+mwl	mợ
+mwul	mợu
+mwjl	mợi
+mwcl	mợc
+mwfl	mợng
+mwnl	mợn
+mwml	mợm
+mwvl	mợp
+mwrl	mợt
+
+mwo	muợ
+mwuo	muợu
+mwjo	muợi
+mwco	muợc
+mwfo	muợng
+mwno	muợn
+mwmo	muợm
+mwvo	muợp
+mwro	muợt
+
+mol	mọ
+moul	mọu
+mojl	mọi
+mocl	mọc
+mofl	mọng
+monl	mọn
+moml	mọm
+movl	mọp
+morl	mọt
+
+moo	moọ
+mouo	moọu
+mojo	moọi
+moco	moọc
+mofo	moọng
+mono	moọn
+momo	moọm
+movo	moọp
+moro	moọt
+
+mal	mạ
+maul	mạo
+majl	mại
+macl	mạc
+mafl	mạng
+manl	mạn
+maml	mạm
+mavl	mạp
+marl	mạt
+
+mao	moạ
+mauo	moạo
+majo	moại
+maco	moạc
+mafo	moạng
+mano	moạn
+mamo	moạm
+mavo	moạp
+maro	moạt
+
+mel	mẹ
+meul	mẹo
+mejl	mẹi
+mecl	mẹc
+mefl	mẹng
+menl	mẹn
+meml	mẹm
+mevl	mẹp
+merl	mẹt
+
+meo	moẹ
+meuo	moẹo
+mejo	moẹi
+meco	moẹc
+mefo	moẹng
+meno	moẹn
+memo	moẹm
+mevo	moẹp
+mero	moẹt
+
+mdl	mệ
+mdul	mệu
+mdjl	mệy
+mdcl	mệch
+mdfl	mệnh
+mdnl	mện
+mdml	mệm
+mdvl	mệp
+mdrl	mệt
+
+mdo	muệ
+mduo	muệu
+mdjo	muệy
+mdco	muệch
+mdfo	muệnh
+mdno	muện
+mdmo	muệm
+mdvo	muệp
+mdro	muệt
+
+mil	mị
+miul	mịu
+mijl	mỵ
+micl	mịch
+mifl	mịnh
+minl	mịn
+miml	mịm
+mivl	mịp
+mirl	mịt
+
+mio	muị
+miuo	muỵu
+mijo	muỵ
+mico	muỵch
+mifo	muỵnh
+mino	muỵn
+mimo	muỵm
+mivo	muỵp
+miro	muỵt
+
+mkl	mịa
+mkul	miệu
+mkjl	miệy
+mkcl	miệc
+mkfl	miệng
+mknl	miện
+mkml	miệm
+mkvl	miệp
+mkrl	miệt
+
+mko	muỵa
+mkuo	muyệu
+mkjo	muyệy
+mkco	muyệc
+mkfo	muyệng
+mkno	muyện
+mkmo	muyệm
+mkvo	muyệp
+mkro	muyệt
+
+mll	mộ
+mlul	mộu
+mljl	mội
+mlcl	mộc
+mlfl	mộng
+mlnl	mộn
+mlml	mộm
+mlvl	mộp
+mlrl	một
+
+mlo	moộ
+mluo	moộu
+mljo	moội
+mlco	moộc
+mlfo	moộng
+mlno	moộn
+mlmo	moộm
+mlvo	moộp
+mlro	moột
+
+msl	mạnh
+msul	mậu
+msjl	mậy
+mscl	mậc
+msfl	mậng
+msnl	mận
+msml	mậm
+msvl	mập
+msrl	mật
+
+mso	moạnh
+msuo	muậu
+msjo	muậy
+msco	muậc
+msfo	muậng
+msno	muận
+msmo	muậm
+msvo	muập
+msro	muật
+
+mql	mạch
+mqul	mạu
+mqjl	mạy
+mqcl	mặc
+mqfl	mặng
+mqnl	mặn
+mqml	mặm
+mqvl	mặp
+mqrl	mặt
+
+mqo	moạch
+mquo	moạu
+mqjo	moạy
+mqco	moặc
+mqfo	moặng
+mqno	moặn
+mqmo	moặm
+mqvo	moặp
+mqro	moặt
+
+mzl	mự
+mzul	mựu
+mzjl	mựi
+mzcl	mực
+mzfl	mựng
+mznl	mựn
+mzml	mựm
+mzvl	mựp
+mzrl	mựt
+
+mzo	mựa
+mzuo	mượu
+mzjo	mượi
+mzco	mược
+mzfo	mượng
+mzno	mượn
+mzmo	mượm
+mzvo	mượp
+mzro	mượt
+
+mpl	mụ
+mpul	mụu
+mpjl	mụi
+mpcl	mục
+mpfl	mụng
+mpnl	mụn
+mpml	mụm
+mpvl	mụp
+mprl	mụt
+
+mpo	mụa
+mpuo	muộu
+mpjo	muội
+mpco	muộc
+mpfo	muộng
+mpno	muộn
+mpmo	muộm
+mpvo	muộp
+mpro	muột
+
+fwl	phợ
+fwul	phợu
+fwjl	phợi
+fwcl	phợc
+fwfl	phợng
+fwnl	phợn
+fwml	phợm
+fwvl	phợp
+fwrl	phợt
+
+fwo	phuợ
+fwuo	phuợu
+fwjo	phuợi
+fwco	phuợc
+fwfo	phuợng
+fwno	phuợn
+fwmo	phuợm
+fwvo	phuợp
+fwro	phuợt
+
+fol	phọ
+foul	phọu
+fojl	phọi
+focl	phọc
+fofl	phọng
+fonl	phọn
+foml	phọm
+fovl	phọp
+forl	phọt
+
+foo	phoọ
+fouo	phoọu
+fojo	phoọi
+foco	phoọc
+fofo	phoọng
+fono	phoọn
+fomo	phoọm
+fovo	phoọp
+foro	phoọt
+
+fal	phạ
+faul	phạo
+fajl	phại
+facl	phạc
+fafl	phạng
+fanl	phạn
+faml	phạm
+favl	phạp
+farl	phạt
+
+fao	phoạ
+fauo	phoạo
+fajo	phoại
+faco	phoạc
+fafo	phoạng
+fano	phoạn
+famo	phoạm
+favo	phoạp
+faro	phoạt
+
+fel	phẹ
+feul	phẹo
+fejl	phẹi
+fecl	phẹc
+fefl	phẹng
+fenl	phẹn
+feml	phẹm
+fevl	phẹp
+ferl	phẹt
+
+feo	phoẹ
+feuo	phoẹo
+fejo	phoẹi
+feco	phoẹc
+fefo	phoẹng
+feno	phoẹn
+femo	phoẹm
+fevo	phoẹp
+fero	phoẹt
+
+fdl	phệ
+fdul	phệu
+fdjl	phệy
+fdcl	phệch
+fdfl	phệnh
+fdnl	phện
+fdml	phệm
+fdvl	phệp
+fdrl	phệt
+
+fdo	phuệ
+fduo	phuệu
+fdjo	phuệy
+fdco	phuệch
+fdfo	phuệnh
+fdno	phuện
+fdmo	phuệm
+fdvo	phuệp
+fdro	phuệt
+
+fil	phị
+fiul	phịu
+fijl	phỵ
+ficl	phịch
+fifl	phịnh
+finl	phịn
+fiml	phịm
+fivl	phịp
+firl	phịt
+
+fio	phuị
+fiuo	phuỵu
+fijo	phuỵ
+fico	phuỵch
+fifo	phuỵnh
+fino	phuỵn
+fimo	phuỵm
+fivo	phuỵp
+firo	phuỵt
+
+fkl	phịa
+fkul	phiệu
+fkjl	phiệy
+fkcl	phiệc
+fkfl	phiệng
+fknl	phiện
+fkml	phiệm
+fkvl	phiệp
+fkrl	phiệt
+
+fko	phuỵa
+fkuo	phuyệu
+fkjo	phuyệy
+fkco	phuyệc
+fkfo	phuyệng
+fkno	phuyện
+fkmo	phuyệm
+fkvo	phuyệp
+fkro	phuyệt
+
+fll	phộ
+flul	phộu
+fljl	phội
+flcl	phộc
+flfl	phộng
+flnl	phộn
+flml	phộm
+flvl	phộp
+flrl	phột
+
+flo	phoộ
+fluo	phoộu
+fljo	phoội
+flco	phoộc
+flfo	phoộng
+flno	phoộn
+flmo	phoộm
+flvo	phoộp
+flro	phoột
+
+fsl	phạnh
+fsul	phậu
+fsjl	phậy
+fscl	phậc
+fsfl	phậng
+fsnl	phận
+fsml	phậm
+fsvl	phập
+fsrl	phật
+
+fso	phoạnh
+fsuo	phuậu
+fsjo	phuậy
+fsco	phuậc
+fsfo	phuậng
+fsno	phuận
+fsmo	phuậm
+fsvo	phuập
+fsro	phuật
+
+fql	phạch
+fqul	phạu
+fqjl	phạy
+fqcl	phặc
+fqfl	phặng
+fqnl	phặn
+fqml	phặm
+fqvl	phặp
+fqrl	phặt
+
+fqo	phoạch
+fquo	phoạu
+fqjo	phoạy
+fqco	phoặc
+fqfo	phoặng
+fqno	phoặn
+fqmo	phoặm
+fqvo	phoặp
+fqro	phoặt
+
+fzl	phự
+fzul	phựu
+fzjl	phựi
+fzcl	phực
+fzfl	phựng
+fznl	phựn
+fzml	phựm
+fzvl	phựp
+fzrl	phựt
+
+fzo	phựa
+fzuo	phượu
+fzjo	phượi
+fzco	phược
+fzfo	phượng
+fzno	phượn
+fzmo	phượm
+fzvo	phượp
+fzro	phượt
+
+fpl	phụ
+fpul	phụu
+fpjl	phụi
+fpcl	phục
+fpfl	phụng
+fpnl	phụn
+fpml	phụm
+fpvl	phụp
+fprl	phụt
+
+fpo	phụa
+fpuo	phuộu
+fpjo	phuội
+fpco	phuộc
+fpfo	phuộng
+fpno	phuộn
+fpmo	phuộm
+fpvo	phuộp
+fpro	phuột
+
+vwl	vợ
+vwul	vợu
+vwjl	vợi
+vwcl	vợc
+vwfl	vợng
+vwnl	vợn
+vwml	vợm
+vwvl	vợp
+vwrl	vợt
+
+vwo	vuợ
+vwuo	vuợu
+vwjo	vuợi
+vwco	vuợc
+vwfo	vuợng
+vwno	vuợn
+vwmo	vuợm
+vwvo	vuợp
+vwro	vuợt
+
+vol	vọ
+voul	vọu
+vojl	vọi
+vocl	vọc
+vofl	vọng
+vonl	vọn
+voml	vọm
+vovl	vọp
+vorl	vọt
+
+voo	voọ
+vouo	voọu
+vojo	voọi
+voco	voọc
+vofo	voọng
+vono	voọn
+vomo	voọm
+vovo	voọp
+voro	voọt
+
+val	vạ
+vaul	vạo
+vajl	vại
+vacl	vạc
+vafl	vạng
+vanl	vạn
+vaml	vạm
+vavl	vạp
+varl	vạt
+
+vao	voạ
+vauo	voạo
+vajo	voại
+vaco	voạc
+vafo	voạng
+vano	voạn
+vamo	voạm
+vavo	voạp
+varo	voạt
+
+vel	vẹ
+veul	vẹo
+vejl	vẹi
+vecl	vẹc
+vefl	vẹng
+venl	vẹn
+veml	vẹm
+vevl	vẹp
+verl	vẹt
+
+veo	voẹ
+veuo	voẹo
+vejo	voẹi
+veco	voẹc
+vefo	voẹng
+veno	voẹn
+vemo	voẹm
+vevo	voẹp
+vero	voẹt
+
+vdl	vệ
+vdul	vệu
+vdjl	vệy
+vdcl	vệch
+vdfl	vệnh
+vdnl	vện
+vdml	vệm
+vdvl	vệp
+vdrl	vệt
+
+vdo	vuệ
+vduo	vuệu
+vdjo	vuệy
+vdco	vuệch
+vdfo	vuệnh
+vdno	vuện
+vdmo	vuệm
+vdvo	vuệp
+vdro	vuệt
+
+vil	vị
+viul	vịu
+vijl	vỵ
+vicl	vịch
+vifl	vịnh
+vinl	vịn
+viml	vịm
+vivl	vịp
+virl	vịt
+
+vio	vuị
+viuo	vuỵu
+vijo	vuỵ
+vico	vuỵch
+vifo	vuỵnh
+vino	vuỵn
+vimo	vuỵm
+vivo	vuỵp
+viro	vuỵt
+
+vkl	vịa
+vkul	việu
+vkjl	việy
+vkcl	việc
+vkfl	việng
+vknl	viện
+vkml	việm
+vkvl	việp
+vkrl	việt
+
+vko	vuỵa
+vkuo	vuyệu
+vkjo	vuyệy
+vkco	vuyệc
+vkfo	vuyệng
+vkno	vuyện
+vkmo	vuyệm
+vkvo	vuyệp
+vkro	vuyệt
+
+vll	vộ
+vlul	vộu
+vljl	vội
+vlcl	vộc
+vlfl	vộng
+vlnl	vộn
+vlml	vộm
+vlvl	vộp
+vlrl	vột
+
+vlo	voộ
+vluo	voộu
+vljo	voội
+vlco	voộc
+vlfo	voộng
+vlno	voộn
+vlmo	voộm
+vlvo	voộp
+vlro	voột
+
+vsl	vạnh
+vsul	vậu
+vsjl	vậy
+vscl	vậc
+vsfl	vậng
+vsnl	vận
+vsml	vậm
+vsvl	vập
+vsrl	vật
+
+vso	voạnh
+vsuo	vuậu
+vsjo	vuậy
+vsco	vuậc
+vsfo	vuậng
+vsno	vuận
+vsmo	vuậm
+vsvo	vuập
+vsro	vuật
+
+vql	vạch
+vqul	vạu
+vqjl	vạy
+vqcl	vặc
+vqfl	vặng
+vqnl	vặn
+vqml	vặm
+vqvl	vặp
+vqrl	vặt
+
+vqo	voạch
+vquo	voạu
+vqjo	voạy
+vqco	voặc
+vqfo	voặng
+vqno	voặn
+vqmo	voặm
+vqvo	voặp
+vqro	voặt
+
+vzl	vự
+vzul	vựu
+vzjl	vựi
+vzcl	vực
+vzfl	vựng
+vznl	vựn
+vzml	vựm
+vzvl	vựp
+vzrl	vựt
+
+vzo	vựa
+vzuo	vượu
+vzjo	vượi
+vzco	vược
+vzfo	vượng
+vzno	vượn
+vzmo	vượm
+vzvo	vượp
+vzro	vượt
+
+vpl	vụ
+vpul	vụu
+vpjl	vụi
+vpcl	vục
+vpfl	vụng
+vpnl	vụn
+vpml	vụm
+vpvl	vụp
+vprl	vụt
+
+vpo	vụa
+vpuo	vuộu
+vpjo	vuội
+vpco	vuộc
+vpfo	vuộng
+vpno	vuộn
+vpmo	vuộm
+vpvo	vuộp
+vpro	vuột
+
+ewl	bợ
+ewul	bợu
+ewjl	bợi
+ewcl	bợc
+ewfl	bợng
+ewnl	bợn
+ewml	bợm
+ewvl	bợp
+ewrl	bợt
+
+ewo	buợ
+ewuo	buợu
+ewjo	buợi
+ewco	buợc
+ewfo	buợng
+ewno	buợn
+ewmo	buợm
+ewvo	buợp
+ewro	buợt
+
+eol	bọ
+eoul	bọu
+eojl	bọi
+eocl	bọc
+eofl	bọng
+eonl	bọn
+eoml	bọm
+eovl	bọp
+eorl	bọt
+
+eoo	boọ
+eouo	boọu
+eojo	boọi
+eoco	boọc
+eofo	boọng
+eono	boọn
+eomo	boọm
+eovo	boọp
+eoro	boọt
+
+eal	bạ
+eaul	bạo
+eajl	bại
+eacl	bạc
+eafl	bạng
+eanl	bạn
+eaml	bạm
+eavl	bạp
+earl	bạt
+
+eao	boạ
+eauo	boạo
+eajo	boại
+eaco	boạc
+eafo	boạng
+eano	boạn
+eamo	boạm
+eavo	boạp
+earo	boạt
+
+eel	bẹ
+eeul	bẹo
+eejl	bẹi
+eecl	bẹc
+eefl	bẹng
+eenl	bẹn
+eeml	bẹm
+eevl	bẹp
+eerl	bẹt
+
+eeo	boẹ
+eeuo	boẹo
+eejo	boẹi
+eeco	boẹc
+eefo	boẹng
+eeno	boẹn
+eemo	boẹm
+eevo	boẹp
+eero	boẹt
+
+edl	bệ
+edul	bệu
+edjl	bệy
+edcl	bệch
+edfl	bệnh
+ednl	bện
+edml	bệm
+edvl	bệp
+edrl	bệt
+
+edo	buệ
+eduo	buệu
+edjo	buệy
+edco	buệch
+edfo	buệnh
+edno	buện
+edmo	buệm
+edvo	buệp
+edro	buệt
+
+eil	bị
+eiul	bịu
+eijl	bỵ
+eicl	bịch
+eifl	bịnh
+einl	bịn
+eiml	bịm
+eivl	bịp
+eirl	bịt
+
+eio	buị
+eiuo	buỵu
+eijo	buỵ
+eico	buỵch
+eifo	buỵnh
+eino	buỵn
+eimo	buỵm
+eivo	buỵp
+eiro	buỵt
+
+ekl	bịa
+ekul	biệu
+ekjl	biệy
+ekcl	biệc
+ekfl	biệng
+eknl	biện
+ekml	biệm
+ekvl	biệp
+ekrl	biệt
+
+eko	buỵa
+ekuo	buyệu
+ekjo	buyệy
+ekco	buyệc
+ekfo	buyệng
+ekno	buyện
+ekmo	buyệm
+ekvo	buyệp
+ekro	buyệt
+
+ell	bộ
+elul	bộu
+eljl	bội
+elcl	bộc
+elfl	bộng
+elnl	bộn
+elml	bộm
+elvl	bộp
+elrl	bột
+
+elo	boộ
+eluo	boộu
+eljo	boội
+elco	boộc
+elfo	boộng
+elno	boộn
+elmo	boộm
+elvo	boộp
+elro	boột
+
+esl	bạnh
+esul	bậu
+esjl	bậy
+escl	bậc
+esfl	bậng
+esnl	bận
+esml	bậm
+esvl	bập
+esrl	bật
+
+eso	boạnh
+esuo	buậu
+esjo	buậy
+esco	buậc
+esfo	buậng
+esno	buận
+esmo	buậm
+esvo	buập
+esro	buật
+
+eql	bạch
+equl	bạu
+eqjl	bạy
+eqcl	bặc
+eqfl	bặng
+eqnl	bặn
+eqml	bặm
+eqvl	bặp
+eqrl	bặt
+
+eqo	boạch
+equo	boạu
+eqjo	boạy
+eqco	boặc
+eqfo	boặng
+eqno	boặn
+eqmo	boặm
+eqvo	boặp
+eqro	boặt
+
+ezl	bự
+ezul	bựu
+ezjl	bựi
+ezcl	bực
+ezfl	bựng
+eznl	bựn
+ezml	bựm
+ezvl	bựp
+ezrl	bựt
+
+ezo	bựa
+ezuo	bượu
+ezjo	bượi
+ezco	bược
+ezfo	bượng
+ezno	bượn
+ezmo	bượm
+ezvo	bượp
+ezro	bượt
+
+epl	bụ
+epul	bụu
+epjl	bụi
+epcl	bục
+epfl	bụng
+epnl	bụn
+epml	bụm
+epvl	bụp
+eprl	bụt
+
+epo	bụa
+epuo	buộu
+epjo	buội
+epco	buộc
+epfo	buộng
+epno	buộn
+epmo	buộm
+epvo	buộp
+epro	buột
+
+swl	sợ
+swul	sợu
+swjl	sợi
+swcl	sợc
+swfl	sợng
+swnl	sợn
+swml	sợm
+swvl	sợp
+swrl	sợt
+
+swo	suợ
+swuo	suợu
+swjo	suợi
+swco	suợc
+swfo	suợng
+swno	suợn
+swmo	suợm
+swvo	suợp
+swro	suợt
+
+sol	sọ
+soul	sọu
+sojl	sọi
+socl	sọc
+sofl	sọng
+sonl	sọn
+soml	sọm
+sovl	sọp
+sorl	sọt
+
+soo	soọ
+souo	soọu
+sojo	soọi
+soco	soọc
+sofo	soọng
+sono	soọn
+somo	soọm
+sovo	soọp
+soro	soọt
+
+sal	sạ
+saul	sạo
+sajl	sại
+sacl	sạc
+safl	sạng
+sanl	sạn
+saml	sạm
+savl	sạp
+sarl	sạt
+
+sao	soạ
+sauo	soạo
+sajo	soại
+saco	soạc
+safo	soạng
+sano	soạn
+samo	soạm
+savo	soạp
+saro	soạt
+
+sel	sẹ
+seul	sẹo
+sejl	sẹi
+secl	sẹc
+sefl	sẹng
+senl	sẹn
+seml	sẹm
+sevl	sẹp
+serl	sẹt
+
+seo	soẹ
+seuo	soẹo
+sejo	soẹi
+seco	soẹc
+sefo	soẹng
+seno	soẹn
+semo	soẹm
+sevo	soẹp
+sero	soẹt
+
+sdl	sệ
+sdul	sệu
+sdjl	sệy
+sdcl	sệch
+sdfl	sệnh
+sdnl	sện
+sdml	sệm
+sdvl	sệp
+sdrl	sệt
+
+sdo	suệ
+sduo	suệu
+sdjo	suệy
+sdco	suệch
+sdfo	suệnh
+sdno	suện
+sdmo	suệm
+sdvo	suệp
+sdro	suệt
+
+sil	sị
+siul	sịu
+sijl	sỵ
+sicl	sịch
+sifl	sịnh
+sinl	sịn
+siml	sịm
+sivl	sịp
+sirl	sịt
+
+sio	suị
+siuo	suỵu
+sijo	suỵ
+sico	suỵch
+sifo	suỵnh
+sino	suỵn
+simo	suỵm
+sivo	suỵp
+siro	suỵt
+
+skl	sịa
+skul	siệu
+skjl	siệy
+skcl	siệc
+skfl	siệng
+sknl	siện
+skml	siệm
+skvl	siệp
+skrl	siệt
+
+sko	suỵa
+skuo	suyệu
+skjo	suyệy
+skco	suyệc
+skfo	suyệng
+skno	suyện
+skmo	suyệm
+skvo	suyệp
+skro	suyệt
+
+sll	sộ
+slul	sộu
+sljl	sội
+slcl	sộc
+slfl	sộng
+slnl	sộn
+slml	sộm
+slvl	sộp
+slrl	sột
+
+slo	soộ
+sluo	soộu
+sljo	soội
+slco	soộc
+slfo	soộng
+slno	soộn
+slmo	soộm
+slvo	soộp
+slro	soột
+
+ssl	sạnh
+ssul	sậu
+ssjl	sậy
+sscl	sậc
+ssfl	sậng
+ssnl	sận
+ssml	sậm
+ssvl	sập
+ssrl	sật
+
+sso	soạnh
+ssuo	suậu
+ssjo	suậy
+ssco	suậc
+ssfo	suậng
+ssno	suận
+ssmo	suậm
+ssvo	suập
+ssro	suật
+
+sql	sạch
+squl	sạu
+sqjl	sạy
+sqcl	sặc
+sqfl	sặng
+sqnl	sặn
+sqml	sặm
+sqvl	sặp
+sqrl	sặt
+
+sqo	soạch
+squo	soạu
+sqjo	soạy
+sqco	soặc
+sqfo	soặng
+sqno	soặn
+sqmo	soặm
+sqvo	soặp
+sqro	soặt
+
+szl	sự
+szul	sựu
+szjl	sựi
+szcl	sực
+szfl	sựng
+sznl	sựn
+szml	sựm
+szvl	sựp
+szrl	sựt
+
+szo	sựa
+szuo	sượu
+szjo	sượi
+szco	sược
+szfo	sượng
+szno	sượn
+szmo	sượm
+szvo	sượp
+szro	sượt
+
+spl	sụ
+spul	sụu
+spjl	sụi
+spcl	sục
+spfl	sụng
+spnl	sụn
+spml	sụm
+spvl	sụp
+sprl	sụt
+
+spo	sụa
+spuo	suộu
+spjo	suội
+spco	suộc
+spfo	suộng
+spno	suộn
+spmo	suộm
+spvo	suộp
+spro	suột
+
+xwl	xợ
+xwul	xợu
+xwjl	xợi
+xwcl	xợc
+xwfl	xợng
+xwnl	xợn
+xwml	xợm
+xwvl	xợp
+xwrl	xợt
+
+xwo	xuợ
+xwuo	xuợu
+xwjo	xuợi
+xwco	xuợc
+xwfo	xuợng
+xwno	xuợn
+xwmo	xuợm
+xwvo	xuợp
+xwro	xuợt
+
+xol	xọ
+xoul	xọu
+xojl	xọi
+xocl	xọc
+xofl	xọng
+xonl	xọn
+xoml	xọm
+xovl	xọp
+xorl	xọt
+
+xoo	xoọ
+xouo	xoọu
+xojo	xoọi
+xoco	xoọc
+xofo	xoọng
+xono	xoọn
+xomo	xoọm
+xovo	xoọp
+xoro	xoọt
+
+xal	xạ
+xaul	xạo
+xajl	xại
+xacl	xạc
+xafl	xạng
+xanl	xạn
+xaml	xạm
+xavl	xạp
+xarl	xạt
+
+xao	xoạ
+xauo	xoạo
+xajo	xoại
+xaco	xoạc
+xafo	xoạng
+xano	xoạn
+xamo	xoạm
+xavo	xoạp
+xaro	xoạt
+
+xel	xẹ
+xeul	xẹo
+xejl	xẹi
+xecl	xẹc
+xefl	xẹng
+xenl	xẹn
+xeml	xẹm
+xevl	xẹp
+xerl	xẹt
+
+xeo	xoẹ
+xeuo	xoẹo
+xejo	xoẹi
+xeco	xoẹc
+xefo	xoẹng
+xeno	xoẹn
+xemo	xoẹm
+xevo	xoẹp
+xero	xoẹt
+
+xdl	xệ
+xdul	xệu
+xdjl	xệy
+xdcl	xệch
+xdfl	xệnh
+xdnl	xện
+xdml	xệm
+xdvl	xệp
+xdrl	xệt
+
+xdo	xuệ
+xduo	xuệu
+xdjo	xuệy
+xdco	xuệch
+xdfo	xuệnh
+xdno	xuện
+xdmo	xuệm
+xdvo	xuệp
+xdro	xuệt
+
+xil	xị
+xiul	xịu
+xijl	xỵ
+xicl	xịch
+xifl	xịnh
+xinl	xịn
+ximl	xịm
+xivl	xịp
+xirl	xịt
+
+xio	xuị
+xiuo	xuỵu
+xijo	xuỵ
+xico	xuỵch
+xifo	xuỵnh
+xino	xuỵn
+ximo	xuỵm
+xivo	xuỵp
+xiro	xuỵt
+
+xkl	xịa
+xkul	xiệu
+xkjl	xiệy
+xkcl	xiệc
+xkfl	xiệng
+xknl	xiện
+xkml	xiệm
+xkvl	xiệp
+xkrl	xiệt
+
+xko	xuỵa
+xkuo	xuyệu
+xkjo	xuyệy
+xkco	xuyệc
+xkfo	xuyệng
+xkno	xuyện
+xkmo	xuyệm
+xkvo	xuyệp
+xkro	xuyệt
+
+xll	xộ
+xlul	xộu
+xljl	xội
+xlcl	xộc
+xlfl	xộng
+xlnl	xộn
+xlml	xộm
+xlvl	xộp
+xlrl	xột
+
+xlo	xoộ
+xluo	xoộu
+xljo	xoội
+xlco	xoộc
+xlfo	xoộng
+xlno	xoộn
+xlmo	xoộm
+xlvo	xoộp
+xlro	xoột
+
+xsl	xạnh
+xsul	xậu
+xsjl	xậy
+xscl	xậc
+xsfl	xậng
+xsnl	xận
+xsml	xậm
+xsvl	xập
+xsrl	xật
+
+xso	xoạnh
+xsuo	xuậu
+xsjo	xuậy
+xsco	xuậc
+xsfo	xuậng
+xsno	xuận
+xsmo	xuậm
+xsvo	xuập
+xsro	xuật
+
+xql	xạch
+xqul	xạu
+xqjl	xạy
+xqcl	xặc
+xqfl	xặng
+xqnl	xặn
+xqml	xặm
+xqvl	xặp
+xqrl	xặt
+
+xqo	xoạch
+xquo	xoạu
+xqjo	xoạy
+xqco	xoặc
+xqfo	xoặng
+xqno	xoặn
+xqmo	xoặm
+xqvo	xoặp
+xqro	xoặt
+
+xzl	xự
+xzul	xựu
+xzjl	xựi
+xzcl	xực
+xzfl	xựng
+xznl	xựn
+xzml	xựm
+xzvl	xựp
+xzrl	xựt
+
+xzo	xựa
+xzuo	xượu
+xzjo	xượi
+xzco	xược
+xzfo	xượng
+xzno	xượn
+xzmo	xượm
+xzvo	xượp
+xzro	xượt
+
+xpl	xụ
+xpul	xụu
+xpjl	xụi
+xpcl	xục
+xpfl	xụng
+xpnl	xụn
+xpml	xụm
+xpvl	xụp
+xprl	xụt
+
+xpo	xụa
+xpuo	xuộu
+xpjo	xuội
+xpco	xuộc
+xpfo	xuộng
+xpno	xuộn
+xpmo	xuộm
+xpvo	xuộp
+xpro	xuột
+
+kwl	khợ
+kwul	khợu
+kwjl	khợi
+kwcl	khợc
+kwfl	khợng
+kwnl	khợn
+kwml	khợm
+kwvl	khợp
+kwrl	khợt
+
+kwo	khuợ
+kwuo	khuợu
+kwjo	khuợi
+kwco	khuợc
+kwfo	khuợng
+kwno	khuợn
+kwmo	khuợm
+kwvo	khuợp
+kwro	khuợt
+
+kol	khọ
+koul	khọu
+kojl	khọi
+kocl	khọc
+kofl	khọng
+konl	khọn
+koml	khọm
+kovl	khọp
+korl	khọt
+
+koo	khoọ
+kouo	khoọu
+kojo	khoọi
+koco	khoọc
+kofo	khoọng
+kono	khoọn
+komo	khoọm
+kovo	khoọp
+koro	khoọt
+
+kal	khạ
+kaul	khạo
+kajl	khại
+kacl	khạc
+kafl	khạng
+kanl	khạn
+kaml	khạm
+kavl	khạp
+karl	khạt
+
+kao	khoạ
+kauo	khoạo
+kajo	khoại
+kaco	khoạc
+kafo	khoạng
+kano	khoạn
+kamo	khoạm
+kavo	khoạp
+karo	khoạt
+
+kel	khẹ
+keul	khẹo
+kejl	khẹi
+kecl	khẹc
+kefl	khẹng
+kenl	khẹn
+keml	khẹm
+kevl	khẹp
+kerl	khẹt
+
+keo	khoẹ
+keuo	khoẹo
+kejo	khoẹi
+keco	khoẹc
+kefo	khoẹng
+keno	khoẹn
+kemo	khoẹm
+kevo	khoẹp
+kero	khoẹt
+
+kdl	khệ
+kdul	khệu
+kdjl	khệy
+kdcl	khệch
+kdfl	khệnh
+kdnl	khện
+kdml	khệm
+kdvl	khệp
+kdrl	khệt
+
+kdo	khuệ
+kduo	khuệu
+kdjo	khuệy
+kdco	khuệch
+kdfo	khuệnh
+kdno	khuện
+kdmo	khuệm
+kdvo	khuệp
+kdro	khuệt
+
+kil	khị
+kiul	khịu
+kijl	khỵ
+kicl	khịch
+kifl	khịnh
+kinl	khịn
+kiml	khịm
+kivl	khịp
+kirl	khịt
+
+kio	khuị
+kiuo	khuỵu
+kijo	khuỵ
+kico	khuỵch
+kifo	khuỵnh
+kino	khuỵn
+kimo	khuỵm
+kivo	khuỵp
+kiro	khuỵt
+
+kkl	khịa
+kkul	khiệu
+kkjl	khiệy
+kkcl	khiệc
+kkfl	khiệng
+kknl	khiện
+kkml	khiệm
+kkvl	khiệp
+kkrl	khiệt
+
+kko	khuỵa
+kkuo	khuyệu
+kkjo	khuyệy
+kkco	khuyệc
+kkfo	khuyệng
+kkno	khuyện
+kkmo	khuyệm
+kkvo	khuyệp
+kkro	khuyệt
+
+kll	khộ
+klul	khộu
+kljl	khội
+klcl	khộc
+klfl	khộng
+klnl	khộn
+klml	khộm
+klvl	khộp
+klrl	khột
+
+klo	khoộ
+kluo	khoộu
+kljo	khoội
+klco	khoộc
+klfo	khoộng
+klno	khoộn
+klmo	khoộm
+klvo	khoộp
+klro	khoột
+
+ksl	khạnh
+ksul	khậu
+ksjl	khậy
+kscl	khậc
+ksfl	khậng
+ksnl	khận
+ksml	khậm
+ksvl	khập
+ksrl	khật
+
+kso	khoạnh
+ksuo	khuậu
+ksjo	khuậy
+ksco	khuậc
+ksfo	khuậng
+ksno	khuận
+ksmo	khuậm
+ksvo	khuập
+ksro	khuật
+
+kql	khạch
+kqul	khạu
+kqjl	khạy
+kqcl	khặc
+kqfl	khặng
+kqnl	khặn
+kqml	khặm
+kqvl	khặp
+kqrl	khặt
+
+kqo	khoạch
+kquo	khoạu
+kqjo	khoạy
+kqco	khoặc
+kqfo	khoặng
+kqno	khoặn
+kqmo	khoặm
+kqvo	khoặp
+kqro	khoặt
+
+kzl	khự
+kzul	khựu
+kzjl	khựi
+kzcl	khực
+kzfl	khựng
+kznl	khựn
+kzml	khựm
+kzvl	khựp
+kzrl	khựt
+
+kzo	khựa
+kzuo	khượu
+kzjo	khượi
+kzco	khược
+kzfo	khượng
+kzno	khượn
+kzmo	khượm
+kzvo	khượp
+kzro	khượt
+
+kpl	khụ
+kpul	khụu
+kpjl	khụi
+kpcl	khục
+kpfl	khụng
+kpnl	khụn
+kpml	khụm
+kpvl	khụp
+kprl	khụt
+
+kpo	khụa
+kpuo	khuộu
+kpjo	khuội
+kpco	khuộc
+kpfo	khuộng
+kpno	khuộn
+kpmo	khuộm
+kpvo	khuộp
+kpro	khuột
+
+hwl	hợ
+hwul	hợu
+hwjl	hợi
+hwcl	hợc
+hwfl	hợng
+hwnl	hợn
+hwml	hợm
+hwvl	hợp
+hwrl	hợt
+
+hwo	huợ
+hwuo	huợu
+hwjo	huợi
+hwco	huợc
+hwfo	huợng
+hwno	huợn
+hwmo	huợm
+hwvo	huợp
+hwro	huợt
+
+hol	họ
+houl	họu
+hojl	họi
+hocl	học
+hofl	họng
+honl	họn
+homl	họm
+hovl	họp
+horl	họt
+
+hoo	hoọ
+houo	hoọu
+hojo	hoọi
+hoco	hoọc
+hofo	hoọng
+hono	hoọn
+homo	hoọm
+hovo	hoọp
+horo	hoọt
+
+hal	hạ
+haul	hạo
+hajl	hại
+hacl	hạc
+hafl	hạng
+hanl	hạn
+haml	hạm
+havl	hạp
+harl	hạt
+
+hao	hoạ
+hauo	hoạo
+hajo	hoại
+haco	hoạc
+hafo	hoạng
+hano	hoạn
+hamo	hoạm
+havo	hoạp
+haro	hoạt
+
+hel	hẹ
+heul	hẹo
+hejl	hẹi
+hecl	hẹc
+hefl	hẹng
+henl	hẹn
+heml	hẹm
+hevl	hẹp
+herl	hẹt
+
+heo	hoẹ
+heuo	hoẹo
+hejo	hoẹi
+heco	hoẹc
+hefo	hoẹng
+heno	hoẹn
+hemo	hoẹm
+hevo	hoẹp
+hero	hoẹt
+
+hdl	hệ
+hdul	hệu
+hdjl	hệy
+hdcl	hệch
+hdfl	hệnh
+hdnl	hện
+hdml	hệm
+hdvl	hệp
+hdrl	hệt
+
+hdo	huệ
+hduo	huệu
+hdjo	huệy
+hdco	huệch
+hdfo	huệnh
+hdno	huện
+hdmo	huệm
+hdvo	huệp
+hdro	huệt
+
+hil	hị
+hiul	hịu
+hijl	hỵ
+hicl	hịch
+hifl	hịnh
+hinl	hịn
+himl	hịm
+hivl	hịp
+hirl	hịt
+
+hio	huị
+hiuo	huỵu
+hijo	huỵ
+hico	huỵch
+hifo	huỵnh
+hino	huỵn
+himo	huỵm
+hivo	huỵp
+hiro	huỵt
+
+hkl	hịa
+hkul	hiệu
+hkjl	hiệy
+hkcl	hiệc
+hkfl	hiệng
+hknl	hiện
+hkml	hiệm
+hkvl	hiệp
+hkrl	hiệt
+
+hko	huỵa
+hkuo	huyệu
+hkjo	huyệy
+hkco	huyệc
+hkfo	huyệng
+hkno	huyện
+hkmo	huyệm
+hkvo	huyệp
+hkro	huyệt
+
+hll	hộ
+hlul	hộu
+hljl	hội
+hlcl	hộc
+hlfl	hộng
+hlnl	hộn
+hlml	hộm
+hlvl	hộp
+hlrl	hột
+
+hlo	hoộ
+hluo	hoộu
+hljo	hoội
+hlco	hoộc
+hlfo	hoộng
+hlno	hoộn
+hlmo	hoộm
+hlvo	hoộp
+hlro	hoột
+
+hsl	hạnh
+hsul	hậu
+hsjl	hậy
+hscl	hậc
+hsfl	hậng
+hsnl	hận
+hsml	hậm
+hsvl	hập
+hsrl	hật
+
+hso	hoạnh
+hsuo	huậu
+hsjo	huậy
+hsco	huậc
+hsfo	huậng
+hsno	huận
+hsmo	huậm
+hsvo	huập
+hsro	huật
+
+hql	hạch
+hqul	hạu
+hqjl	hạy
+hqcl	hặc
+hqfl	hặng
+hqnl	hặn
+hqml	hặm
+hqvl	hặp
+hqrl	hặt
+
+hqo	hoạch
+hquo	hoạu
+hqjo	hoạy
+hqco	hoặc
+hqfo	hoặng
+hqno	hoặn
+hqmo	hoặm
+hqvo	hoặp
+hqro	hoặt
+
+hzl	hự
+hzul	hựu
+hzjl	hựi
+hzcl	hực
+hzfl	hựng
+hznl	hựn
+hzml	hựm
+hzvl	hựp
+hzrl	hựt
+
+hzo	hựa
+hzuo	hượu
+hzjo	hượi
+hzco	hược
+hzfo	hượng
+hzno	hượn
+hzmo	hượm
+hzvo	hượp
+hzro	hượt
+
+hpl	hụ
+hpul	hụu
+hpjl	hụi
+hpcl	hục
+hpfl	hụng
+hpnl	hụn
+hpml	hụm
+hpvl	hụp
+hprl	hụt
+
+hpo	hụa
+hpuo	huộu
+hpjo	huội
+hpco	huộc
+hpfo	huộng
+hpno	huộn
+hpmo	huộm
+hpvo	huộp
+hpro	huột
+
+
+cel	kẹ
+ceul	kẹo
+cejl	kẹi
+cecl	kẹc
+cefl	kẹng
+cenl	kẹn
+ceml	kẹm
+cevl	kẹp
+cerl	kẹt
+
+cdl	kệ
+cdul	kệu
+cdjl	kệy
+cdcl	kệch
+cdfl	kệnh
+cdnl	kện
+cdml	kệm
+cdvl	kệp
+cdrl	kệt
+
+cil	kị
+ciul	kịu
+cijl	kỵ
+cicl	kịch
+cifl	kịnh
+cinl	kịn
+ciml	kịm
+civl	kịp
+cirl	kịt
+
+ckl	kịa
+ckul	kiệu
+ckjl	kiệy
+ckcl	kiệc
+ckfl	kiệng
+cknl	kiện
+ckml	kiệm
+ckvl	kiệp
+ckrl	kiệt
+
+gel	ghẹ
+geul	ghẹo
+gejl	ghẹi
+gecl	ghẹc
+gefl	ghẹng
+genl	ghẹn
+geml	ghẹm
+gevl	ghẹp
+gerl	ghẹt
+
+gdl	ghệ
+gdul	ghệu
+gdjl	ghệy
+gdcl	ghệch
+gdfl	ghệnh
+gdnl	ghện
+gdml	ghệm
+gdvl	ghệp
+gdrl	ghệt
+
+gil	ghị
+giul	ghịu
+gijl	ghỵ
+gicl	ghịch
+gifl	ghịnh
+ginl	ghịn
+giml	ghịm
+givl	ghịp
+girl	ghịt
+
+gkl	ghịa
+gkul	ghiệu
+gkjl	ghiệy
+gkcl	ghiệc
+gkfl	ghiệng
+gknl	ghiện
+gkml	ghiệm
+gkvl	ghiệp
+gkrl	ghiệt
+
+ael	nghẹ
+aeul	nghẹo
+aejl	nghẹi
+aecl	nghẹc
+aefl	nghẹng
+aenl	nghẹn
+aeml	nghẹm
+aevl	nghẹp
+aerl	nghẹt
+
+adl	nghệ
+adul	nghệu
+adjl	nghệy
+adcl	nghệch
+adfl	nghệnh
+adnl	nghện
+adml	nghệm
+advl	nghệp
+adrl	nghệt
+
+ail	nghị
+aiul	nghịu
+aijl	nghỵ
+aicl	nghịch
+aifl	nghịnh
+ainl	nghịn
+aiml	nghịm
+aivl	nghịp
+airl	nghịt
+
+akl	nghịa
+akul	nghiệu
+akjl	nghiệy
+akcl	nghiệc
+akfl	nghiệng
+aknl	nghiện
+akml	nghiệm
+akvl	nghiệp
+akrl	nghiệt
+
+
+cwl	cợ
+cwul	cợu
+cwjl	cợi
+cwcl	cợc
+cwfl	cợng
+cwnl	cợn
+cwml	cợm
+cwvl	cợp
+cwrl	cợt
+
+cwo	cuợ
+cwuo	cuợu
+cwjo	cuợi
+cwco	cuợc
+cwfo	cuợng
+cwno	cuợn
+cwmo	cuợm
+cwvo	cuợp
+cwro	cuợt
+
+col	cọ
+coul	cọu
+cojl	cọi
+cocl	cọc
+cofl	cọng
+conl	cọn
+coml	cọm
+covl	cọp
+corl	cọt
+
+coo	coọ
+couo	coọu
+cojo	coọi
+coco	coọc
+cofo	coọng
+cono	coọn
+como	coọm
+covo	coọp
+coro	coọt
+
+cal	cạ
+caul	cạo
+cajl	cại
+cacl	cạc
+cafl	cạng
+canl	cạn
+caml	cạm
+cavl	cạp
+carl	cạt
+
+cao	coạ
+cauo	coạo
+cajo	coại
+caco	coạc
+cafo	coạng
+cano	coạn
+camo	coạm
+cavo	coạp
+caro	coạt
+
+cll	cộ
+clul	cộu
+cljl	cội
+clcl	cộc
+clfl	cộng
+clnl	cộn
+clml	cộm
+clvl	cộp
+clrl	cột
+
+clo	coộ
+cluo	coộu
+cljo	coội
+clco	coộc
+clfo	coộng
+clno	coộn
+clmo	coộm
+clvo	coộp
+clro	coột
+
+csl	cạnh
+csul	cậu
+csjl	cậy
+cscl	cậc
+csfl	cậng
+csnl	cận
+csml	cậm
+csvl	cập
+csrl	cật
+
+cso	coạnh
+csuo	cuậu
+csjo	cuậy
+csco	cuậc
+csfo	cuậng
+csno	cuận
+csmo	cuậm
+csvo	cuập
+csro	cuật
+
+cql	cạch
+cqul	cạu
+cqjl	cạy
+cqcl	cặc
+cqfl	cặng
+cqnl	cặn
+cqml	cặm
+cqvl	cặp
+cqrl	cặt
+
+cqo	coạch
+cquo	coạu
+cqjo	coạy
+cqco	coặc
+cqfo	coặng
+cqno	coặn
+cqmo	coặm
+cqvo	coặp
+cqro	coặt
+
+czl	cự
+czul	cựu
+czjl	cựi
+czcl	cực
+czfl	cựng
+cznl	cựn
+czml	cựm
+czvl	cựp
+czrl	cựt
+
+czo	cựa
+czuo	cượu
+czjo	cượi
+czco	cược
+czfo	cượng
+czno	cượn
+czmo	cượm
+czvo	cượp
+czro	cượt
+
+cpl	cụ
+cpul	cụu
+cpjl	cụi
+cpcl	cục
+cpfl	cụng
+cpnl	cụn
+cpml	cụm
+cpvl	cụp
+cprl	cụt
+
+cpo	cụa
+cpuo	cuộu
+cpjo	cuội
+cpco	cuộc
+cpfo	cuộng
+cpno	cuộn
+cpmo	cuộm
+cpvo	cuộp
+cpro	cuột
+
+ceo	coẹ
+ceuo	coẹo
+cejo	coẹi
+ceco	coẹc
+cefo	coẹng
+ceno	coẹn
+cemo	coẹm
+cevo	coẹp
+cero	coẹt
+
+cdo	cuệ
+cduo	cuệu
+cdjo	cuệy
+cdco	cuệch
+cdfo	cuệnh
+cdno	cuện
+cdmo	cuệm
+cdvo	cuệp
+cdro	cuệt
+
+cio	cuị
+ciuo	cuỵu
+cijo	cuỵ
+cico	cuỵch
+cifo	cuỵnh
+cino	cuỵn
+cimo	cuỵm
+civo	cuỵp
+ciro	cuỵt
+
+cko	cuỵa
+ckuo	cuyệu
+ckjo	cuyệy
+ckco	cuyệc
+ckfo	cuyệng
+ckno	cuyện
+ckmo	cuyệm
+ckvo	cuyệp
+ckro	cuyệt
+
+gwl	gợ
+gwul	gợu
+gwjl	gợi
+gwcl	gợc
+gwfl	gợng
+gwnl	gợn
+gwml	gợm
+gwvl	gợp
+gwrl	gợt
+
+gwo	guợ
+gwuo	guợu
+gwjo	guợi
+gwco	guợc
+gwfo	guợng
+gwno	guợn
+gwmo	guợm
+gwvo	guợp
+gwro	guợt
+
+gol	gọ
+goul	gọu
+gojl	gọi
+gocl	gọc
+gofl	gọng
+gonl	gọn
+goml	gọm
+govl	gọp
+gorl	gọt
+
+goo	goọ
+gouo	goọu
+gojo	goọi
+goco	goọc
+gofo	goọng
+gono	goọn
+gomo	goọm
+govo	goọp
+goro	goọt
+
+gal	gạ
+gaul	gạo
+gajl	gại
+gacl	gạc
+gafl	gạng
+ganl	gạn
+gaml	gạm
+gavl	gạp
+garl	gạt
+
+gao	goạ
+gauo	goạo
+gajo	goại
+gaco	goạc
+gafo	goạng
+gano	goạn
+gamo	goạm
+gavo	goạp
+garo	goạt
+
+gll	gộ
+glul	gộu
+gljl	gội
+glcl	gộc
+glfl	gộng
+glnl	gộn
+glml	gộm
+glvl	gộp
+glrl	gột
+
+glo	goộ
+gluo	goộu
+gljo	goội
+glco	goộc
+glfo	goộng
+glno	goộn
+glmo	goộm
+glvo	goộp
+glro	goột
+
+gsl	gạnh
+gsul	gậu
+gsjl	gậy
+gscl	gậc
+gsfl	gậng
+gsnl	gận
+gsml	gậm
+gsvl	gập
+gsrl	gật
+
+gso	goạnh
+gsuo	guậu
+gsjo	guậy
+gsco	guậc
+gsfo	guậng
+gsno	guận
+gsmo	guậm
+gsvo	guập
+gsro	guật
+
+gql	gạch
+gqul	gạu
+gqjl	gạy
+gqcl	gặc
+gqfl	gặng
+gqnl	gặn
+gqml	gặm
+gqvl	gặp
+gqrl	gặt
+
+gqo	goạch
+gquo	goạu
+gqjo	goạy
+gqco	goặc
+gqfo	goặng
+gqno	goặn
+gqmo	goặm
+gqvo	goặp
+gqro	goặt
+
+gzl	gự
+gzul	gựu
+gzjl	gựi
+gzcl	gực
+gzfl	gựng
+gznl	gựn
+gzml	gựm
+gzvl	gựp
+gzrl	gựt
+
+gzo	gựa
+gzuo	gượu
+gzjo	gượi
+gzco	gược
+gzfo	gượng
+gzno	gượn
+gzmo	gượm
+gzvo	gượp
+gzro	gượt
+
+gpl	gụ
+gpul	gụu
+gpjl	gụi
+gpcl	gục
+gpfl	gụng
+gpnl	gụn
+gpml	gụm
+gpvl	gụp
+gprl	gụt
+
+gpo	gụa
+gpuo	guộu
+gpjo	guội
+gpco	guộc
+gpfo	guộng
+gpno	guộn
+gpmo	guộm
+gpvo	guộp
+gpro	guột
+
+geo	goẹ
+geuo	goẹo
+gejo	goẹi
+geco	goẹc
+gefo	goẹng
+geno	goẹn
+gemo	goẹm
+gevo	goẹp
+gero	goẹt
+
+gdo	guệ
+gduo	guệu
+gdjo	guệy
+gdco	guệch
+gdfo	guệnh
+gdno	guện
+gdmo	guệm
+gdvo	guệp
+gdro	guệt
+
+gio	guị
+giuo	guỵu
+gijo	guỵ
+gico	guỵch
+gifo	guỵnh
+gino	guỵn
+gimo	guỵm
+givo	guỵp
+giro	guỵt
+
+gko	guỵa
+gkuo	guyệu
+gkjo	guyệy
+gkco	guyệc
+gkfo	guyệng
+gkno	guyện
+gkmo	guyệm
+gkvo	guyệp
+gkro	guyệt
+
+awl	ngợ
+awul	ngợu
+awjl	ngợi
+awcl	ngợc
+awfl	ngợng
+awnl	ngợn
+awml	ngợm
+awvl	ngợp
+awrl	ngợt
+
+awo	nguợ
+awuo	nguợu
+awjo	nguợi
+awco	nguợc
+awfo	nguợng
+awno	nguợn
+awmo	nguợm
+awvo	nguợp
+awro	nguợt
+
+aol	ngọ
+aoul	ngọu
+aojl	ngọi
+aocl	ngọc
+aofl	ngọng
+aonl	ngọn
+aoml	ngọm
+aovl	ngọp
+aorl	ngọt
+
+aoo	ngoọ
+aouo	ngoọu
+aojo	ngoọi
+aoco	ngoọc
+aofo	ngoọng
+aono	ngoọn
+aomo	ngoọm
+aovo	ngoọp
+aoro	ngoọt
+
+aal	ngạ
+aaul	ngạo
+aajl	ngại
+aacl	ngạc
+aafl	ngạng
+aanl	ngạn
+aaml	ngạm
+aavl	ngạp
+aarl	ngạt
+
+aao	ngoạ
+aauo	ngoạo
+aajo	ngoại
+aaco	ngoạc
+aafo	ngoạng
+aano	ngoạn
+aamo	ngoạm
+aavo	ngoạp
+aaro	ngoạt
+
+all	ngộ
+alul	ngộu
+aljl	ngội
+alcl	ngộc
+alfl	ngộng
+alnl	ngộn
+alml	ngộm
+alvl	ngộp
+alrl	ngột
+
+alo	ngoộ
+aluo	ngoộu
+aljo	ngoội
+alco	ngoộc
+alfo	ngoộng
+alno	ngoộn
+almo	ngoộm
+alvo	ngoộp
+alro	ngoột
+
+asl	ngạnh
+asul	ngậu
+asjl	ngậy
+ascl	ngậc
+asfl	ngậng
+asnl	ngận
+asml	ngậm
+asvl	ngập
+asrl	ngật
+
+aso	ngoạnh
+asuo	nguậu
+asjo	nguậy
+asco	nguậc
+asfo	nguậng
+asno	nguận
+asmo	nguậm
+asvo	nguập
+asro	nguật
+
+aql	ngạch
+aqul	ngạu
+aqjl	ngạy
+aqcl	ngặc
+aqfl	ngặng
+aqnl	ngặn
+aqml	ngặm
+aqvl	ngặp
+aqrl	ngặt
+
+aqo	ngoạch
+aquo	ngoạu
+aqjo	ngoạy
+aqco	ngoặc
+aqfo	ngoặng
+aqno	ngoặn
+aqmo	ngoặm
+aqvo	ngoặp
+aqro	ngoặt
+
+azl	ngự
+azul	ngựu
+azjl	ngựi
+azcl	ngực
+azfl	ngựng
+aznl	ngựn
+azml	ngựm
+azvl	ngựp
+azrl	ngựt
+
+azo	ngựa
+azuo	ngượu
+azjo	ngượi
+azco	ngược
+azfo	ngượng
+azno	ngượn
+azmo	ngượm
+azvo	ngượp
+azro	ngượt
+
+apl	ngụ
+apul	ngụu
+apjl	ngụi
+apcl	ngục
+apfl	ngụng
+apnl	ngụn
+apml	ngụm
+apvl	ngụp
+aprl	ngụt
+
+apo	ngụa
+apuo	nguộu
+apjo	nguội
+apco	nguộc
+apfo	nguộng
+apno	nguộn
+apmo	nguộm
+apvo	nguộp
+apro	nguột
+
+aeo	ngoẹ
+aeuo	ngoẹo
+aejo	ngoẹi
+aeco	ngoẹc
+aefo	ngoẹng
+aeno	ngoẹn
+aemo	ngoẹm
+aevo	ngoẹp
+aero	ngoẹt
+
+ado	nguệ
+aduo	nguệu
+adjo	nguệy
+adco	nguệch
+adfo	nguệnh
+adno	nguện
+admo	nguệm
+advo	nguệp
+adro	nguệt
+
+aio	nguị
+aiuo	nguỵu
+aijo	nguỵ
+aico	nguỵch
+aifo	nguỵnh
+aino	nguỵn
+aimo	nguỵm
+aivo	nguỵp
+airo	nguỵt
+
+ako	nguỵa
+akuo	nguyệu
+akjo	nguyệy
+akco	nguyệc
+akfo	nguyệng
+akno	nguyện
+akmo	nguyệm
+akvo	nguyệp
+akro	nguyệt
+
+zwl	giợ
+zwul	giợu
+zwjl	giợi
+zwcl	giợc
+zwfl	giợng
+zwnl	giợn
+zwml	giợm
+zwvl	giợp
+zwrl	giợt
+
+zwo	giuợ
+zwuo	giuợu
+zwjo	giuợi
+zwco	giuợc
+zwfo	giuợng
+zwno	giuợn
+zwmo	giuợm
+zwvo	giuợp
+zwro	giuợt
+
+zol	giọ
+zoul	giọu
+zojl	giọi
+zocl	giọc
+zofl	giọng
+zonl	giọn
+zoml	giọm
+zovl	giọp
+zorl	giọt
+
+zoo	gioọ
+zouo	gioọu
+zojo	gioọi
+zoco	gioọc
+zofo	gioọng
+zono	gioọn
+zomo	gioọm
+zovo	gioọp
+zoro	gioọt
+
+zal	giạ
+zaul	giạo
+zajl	giại
+zacl	giạc
+zafl	giạng
+zanl	giạn
+zaml	giạm
+zavl	giạp
+zarl	giạt
+
+zao	gioạ
+zauo	gioạo
+zajo	gioại
+zaco	gioạc
+zafo	gioạng
+zano	gioạn
+zamo	gioạm
+zavo	gioạp
+zaro	gioạt
+
+zll	giộ
+zlul	giộu
+zljl	giội
+zlcl	giộc
+zlfl	giộng
+zlnl	giộn
+zlml	giộm
+zlvl	giộp
+zlrl	giột
+
+zlo	gioộ
+zluo	gioộu
+zljo	gioội
+zlco	gioộc
+zlfo	gioộng
+zlno	gioộn
+zlmo	gioộm
+zlvo	gioộp
+zlro	gioột
+
+zsl	giạnh
+zsul	giậu
+zsjl	giậy
+zscl	giậc
+zsfl	giậng
+zsnl	giận
+zsml	giậm
+zsvl	giập
+zsrl	giật
+
+zso	gioạnh
+zsuo	giuậu
+zsjo	giuậy
+zsco	giuậc
+zsfo	giuậng
+zsno	giuận
+zsmo	giuậm
+zsvo	giuập
+zsro	giuật
+
+zql	giạch
+zqul	giạu
+zqjl	giạy
+zqcl	giặc
+zqfl	giặng
+zqnl	giặn
+zqml	giặm
+zqvl	giặp
+zqrl	giặt
+
+zqo	gioạch
+zquo	gioạu
+zqjo	gioạy
+zqco	gioặc
+zqfo	gioặng
+zqno	gioặn
+zqmo	gioặm
+zqvo	gioặp
+zqro	gioặt
+
+zzl	giự
+zzul	giựu
+zzjl	giựi
+zzcl	giực
+zzfl	giựng
+zznl	giựn
+zzml	giựm
+zzvl	giựp
+zzrl	giựt
+
+zzo	giựa
+zzuo	giượu
+zzjo	giượi
+zzco	giược
+zzfo	giượng
+zzno	giượn
+zzmo	giượm
+zzvo	giượp
+zzro	giượt
+
+zpl	giụ
+zpul	giụu
+zpjl	giụi
+zpcl	giục
+zpfl	giụng
+zpnl	giụn
+zpml	giụm
+zpvl	giụp
+zprl	giụt
+
+zpo	giụa
+zpuo	giuộu
+zpjo	giuội
+zpco	giuộc
+zpfo	giuộng
+zpno	giuộn
+zpmo	giuộm
+zpvo	giuộp
+zpro	giuột
+
+zeo	gioẹ
+zeuo	gioẹo
+zejo	gioẹi
+zeco	gioẹc
+zefo	gioẹng
+zeno	gioẹn
+zemo	gioẹm
+zevo	gioẹp
+zero	gioẹt
+
+zdo	giuệ
+zduo	giuệu
+zdjo	giuệy
+zdco	giuệch
+zdfo	giuệnh
+zdno	giuện
+zdmo	giuệm
+zdvo	giuệp
+zdro	giuệt
+
+zio	giuị
+ziuo	giuỵu
+zijo	giuỵ
+zico	giuỵch
+zifo	giuỵnh
+zino	giuỵn
+zimo	giuỵm
+zivo	giuỵp
+ziro	giuỵt
+
+zko	giuỵa
+zkuo	giuyệu
+zkjo	giuyệy
+zkco	giuyệc
+zkfo	giuyệng
+zkno	giuyện
+zkmo	giuyệm
+zkvo	giuyệp
+zkro	giuyệt
+
+zel	gẹ
+zeul	gẹo
+zejl	gẹi
+zecl	gẹc
+zefl	gẹng
+zenl	gẹn
+zeml	gẹm
+zevl	gẹp
+zerl	gẹt
+
+zeo	gioẹ
+zeuo	gioẹo
+zejo	gioẹi
+zeco	gioẹc
+zefo	gioẹng
+zeno	gioẹn
+zemo	gioẹm
+zevo	gioẹp
+zero	gioẹt
+
+zdl	gệ
+zdul	gệu
+zdjl	gệy
+zdcl	gệch
+zdfl	gệnh
+zdnl	gện
+zdml	gệm
+zdvl	gệp
+zdrl	gệt
+
+zdo	giuệ
+zduo	giuệu
+zdjo	giuệy
+zdco	giuệch
+zdfo	giuệnh
+zdno	giuện
+zdmo	giuệm
+zdvo	giuệp
+zdro	giuệt
+
+zil	gị
+ziul	gịu
+zijl	gỵ
+zicl	gịch
+zifl	gịnh
+zinl	gịn
+ziml	gịm
+zivl	gịp
+zirl	gịt
+
+zio	giuị
+ziuo	giuỵu
+zijo	giuỵ
+zico	giuỵch
+zifo	giuỵnh
+zino	giuỵn
+zimo	giuỵm
+zivo	giuỵp
+ziro	giuỵt
+
+zkl	gỵa
+zkul	giệu
+zkjl	giệy
+zkcl	giệc
+zkfl	giệng
+zknl	giện
+zkml	giệm
+zkvl	giệp
+zkrl	giệt
+
+zko	giuỵa
+zkuo	giuyệu
+zkjo	giuyệy
+zkco	giuyệc
+zkfo	giuyệng
+zkno	giuyện
+zkmo	giuyệm
+zkvo	giuyệp
+zkro	giuyệt
+
+tw1l	quợ
+twul	quợu
+twjl	quợi
+twcl	quợc
+twfl	quợng
+twnl	quợn
+twml	quợm
+twvl	quợp
+twrl	quợt
+
+to1l	quọ
+toul	quọu
+tojl	quọi
+tocl	quọc
+tofl	quọng
+tonl	quọn
+toml	quọm
+tovl	quọp
+torl	quọt
+
+to1o	quoọ
+touo	quoọu
+tojo	quoọi
+toco	quoọc
+tofo	quoọng
+tono	quoọn
+tomo	quoọm
+tovo	quoọp
+toro	quoọt
+
+ta1l	quạ
+taul	quạo
+tajl	quại
+tacl	quạc
+tafl	quạng
+tanl	quạn
+taml	quạm
+tavl	quạp
+tarl	quạt
+
+te1l	quẹ
+teul	quẹo
+tejl	quẹi
+tecl	quẹc
+tefl	quẹng
+tenl	quẹn
+teml	quẹm
+tevl	quẹp
+terl	quẹt
+
+td1l	quệ
+tdul	quệu
+tdjl	quệy
+tdcl	quệch
+tdfl	quệnh
+tdnl	quện
+tdml	quệm
+tdvl	quệp
+tdrl	quệt
+
+ti1l	quị
+tiul	quỵu
+tijl	quỵ
+ticl	quỵch
+tifl	quỵnh
+tinl	quỵn
+timl	quỵm
+tivl	quỵp
+tirl	quỵt
+
+tk1l	quỵa
+tkul	quyệu
+tkjl	quyệy
+tkcl	quyệc
+tkfl	quyệng
+tknl	quyện
+tkml	quyệm
+tkvl	quyệp
+tkrl	quyệt
+
+tl1l	quộ
+tlul	quộu
+tljl	quội
+tlcl	quộc
+tlfl	quộng
+tlnl	quộn
+tlml	quộm
+tlvl	quộp
+tlrl	quột
+
+tl1o	quoộ
+tluo	quoộu
+tljo	quoội
+tlco	quoộc
+tlfo	quoộng
+tlno	quoộn
+tlmo	quoộm
+tlvo	quoộp
+tlro	quoột
+
+ts1l	quạnh
+tsul	quậu
+tsjl	quậy
+tscl	quậc
+tsfl	quậng
+tsnl	quận
+tsml	quậm
+tsvl	quập
+tsrl	quật
+
+tq1l	quạch
+tqul	quạu
+tqjl	quạy
+tqcl	quặc
+tqfl	quặng
+tqnl	quặn
+tqml	quặm
+tqvl	quặp
+tqrl	quặt
+
+tz1l	quự
+tzul	quựu
+tzjl	quựi
+tzcl	quực
+tzfl	quựng
+tznl	quựn
+tzml	quựm
+tzvl	quựp
+tzrl	quựt
+
+tz1o	quựa
+tzuo	quượu
+tzjo	quượi
+tzco	quược
+tzfo	quượng
+tzno	quượn
+tzmo	quượm
+tzvo	quượp
+tzro	quượt
+
+tp1l	quụ
+tpul	quụu
+tpjl	quụi
+tpcl	quục
+tpfl	quụng
+tpnl	quụn
+tpml	quụm
+tpvl	quụp
+tprl	quụt
+
+tp1o	quụa
+tpuo	quuộu
+tpjo	quuội
+tpco	quuộc
+tpfo	quuộng
+tpno	quuộn
+tpmo	quuộm
+tpvo	quuộp
+tpro	quuột

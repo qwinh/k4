@@ -1,0 +1,800 @@
+
+cw1l	cợ
+cwul	cợu
+cwjl	cợi
+cwcl	cợc
+cwfl	cợng
+cwnl	cợn
+cwml	cợm
+cwvl	cợp
+cwrl	cợt
+
+cw1o	cuợ
+cwuo	cuợu
+cwjo	cuợi
+cwco	cuợc
+cwfo	cuợng
+cwno	cuợn
+cwmo	cuợm
+cwvo	cuợp
+cwro	cuợt
+
+co1l	cọ
+coul	cọu
+cojl	cọi
+cocl	cọc
+cofl	cọng
+conl	cọn
+coml	cọm
+covl	cọp
+corl	cọt
+
+co1o	coọ
+couo	coọu
+cojo	coọi
+coco	coọc
+cofo	coọng
+cono	coọn
+como	coọm
+covo	coọp
+coro	coọt
+
+ca1l	cạ
+caul	cạo
+cajl	cại
+cacl	cạc
+cafl	cạng
+canl	cạn
+caml	cạm
+cavl	cạp
+carl	cạt
+
+ca1o	coạ
+cauo	coạo
+cajo	coại
+caco	coạc
+cafo	coạng
+cano	coạn
+camo	coạm
+cavo	coạp
+caro	coạt
+
+cl1l	cộ
+clul	cộu
+cljl	cội
+clcl	cộc
+clfl	cộng
+clnl	cộn
+clml	cộm
+clvl	cộp
+clrl	cột
+
+cl1o	coộ
+cluo	coộu
+cljo	coội
+clco	coộc
+clfo	coộng
+clno	coộn
+clmo	coộm
+clvo	coộp
+clro	coột
+
+cs1l	cạnh
+csul	cậu
+csjl	cậy
+cscl	cậc
+csfl	cậng
+csnl	cận
+csml	cậm
+csvl	cập
+csrl	cật
+
+cs1o	coạnh
+csuo	cuậu
+csjo	cuậy
+csco	cuậc
+csfo	cuậng
+csno	cuận
+csmo	cuậm
+csvo	cuập
+csro	cuật
+
+cq1l	cạch
+cqul	cạu
+cqjl	cạy
+cqcl	cặc
+cqfl	cặng
+cqnl	cặn
+cqml	cặm
+cqvl	cặp
+cqrl	cặt
+
+cq1o	coạch
+cquo	coạu
+cqjo	coạy
+cqco	coặc
+cqfo	coặng
+cqno	coặn
+cqmo	coặm
+cqvo	coặp
+cqro	coặt
+
+cz1l	cự
+czul	cựu
+czjl	cựi
+czcl	cực
+czfl	cựng
+cznl	cựn
+czml	cựm
+czvl	cựp
+czrl	cựt
+
+cz1o	cựa
+czuo	cượu
+czjo	cượi
+czco	cược
+czfo	cượng
+czno	cượn
+czmo	cượm
+czvo	cượp
+czro	cượt
+
+cp1l	cụ
+cpul	cụu
+cpjl	cụi
+cpcl	cục
+cpfl	cụng
+cpnl	cụn
+cpml	cụm
+cpvl	cụp
+cprl	cụt
+
+cp1o	cụa
+cpuo	cuộu
+cpjo	cuội
+cpco	cuộc
+cpfo	cuộng
+cpno	cuộn
+cpmo	cuộm
+cpvo	cuộp
+cpro	cuột
+
+ce1o	coẹ
+ceuo	coẹo
+cejo	coẹi
+ceco	coẹc
+cefo	coẹng
+ceno	coẹn
+cemo	coẹm
+cevo	coẹp
+cero	coẹt
+
+cd1o	cuệ
+cduo	cuệu
+cdjo	cuệy
+cdco	cuệch
+cdfo	cuệnh
+cdno	cuện
+cdmo	cuệm
+cdvo	cuệp
+cdro	cuệt
+
+ci1o	cuị
+ciuo	cuỵu
+cijo	cuỵ
+cico	cuỵch
+cifo	cuỵnh
+cino	cuỵn
+cimo	cuỵm
+civo	cuỵp
+ciro	cuỵt
+
+ck1o	cuỵa
+ckuo	cuyệu
+ckjo	cuyệy
+ckco	cuyệc
+ckfo	cuyệng
+ckno	cuyện
+ckmo	cuyệm
+ckvo	cuyệp
+ckro	cuyệt
+
+gw1l	gợ
+gwul	gợu
+gwjl	gợi
+gwcl	gợc
+gwfl	gợng
+gwnl	gợn
+gwml	gợm
+gwvl	gợp
+gwrl	gợt
+
+gw1o	guợ
+gwuo	guợu
+gwjo	guợi
+gwco	guợc
+gwfo	guợng
+gwno	guợn
+gwmo	guợm
+gwvo	guợp
+gwro	guợt
+
+go1l	gọ
+goul	gọu
+gojl	gọi
+gocl	gọc
+gofl	gọng
+gonl	gọn
+goml	gọm
+govl	gọp
+gorl	gọt
+
+go1o	goọ
+gouo	goọu
+gojo	goọi
+goco	goọc
+gofo	goọng
+gono	goọn
+gomo	goọm
+govo	goọp
+goro	goọt
+
+ga1l	gạ
+gaul	gạo
+gajl	gại
+gacl	gạc
+gafl	gạng
+ganl	gạn
+gaml	gạm
+gavl	gạp
+garl	gạt
+
+ga1o	goạ
+gauo	goạo
+gajo	goại
+gaco	goạc
+gafo	goạng
+gano	goạn
+gamo	goạm
+gavo	goạp
+garo	goạt
+
+gl1l	gộ
+glul	gộu
+gljl	gội
+glcl	gộc
+glfl	gộng
+glnl	gộn
+glml	gộm
+glvl	gộp
+glrl	gột
+
+gl1o	goộ
+gluo	goộu
+gljo	goội
+glco	goộc
+glfo	goộng
+glno	goộn
+glmo	goộm
+glvo	goộp
+glro	goột
+
+gs1l	gạnh
+gsul	gậu
+gsjl	gậy
+gscl	gậc
+gsfl	gậng
+gsnl	gận
+gsml	gậm
+gsvl	gập
+gsrl	gật
+
+gs1o	goạnh
+gsuo	guậu
+gsjo	guậy
+gsco	guậc
+gsfo	guậng
+gsno	guận
+gsmo	guậm
+gsvo	guập
+gsro	guật
+
+gq1l	gạch
+gqul	gạu
+gqjl	gạy
+gqcl	gặc
+gqfl	gặng
+gqnl	gặn
+gqml	gặm
+gqvl	gặp
+gqrl	gặt
+
+gq1o	goạch
+gquo	goạu
+gqjo	goạy
+gqco	goặc
+gqfo	goặng
+gqno	goặn
+gqmo	goặm
+gqvo	goặp
+gqro	goặt
+
+gz1l	gự
+gzul	gựu
+gzjl	gựi
+gzcl	gực
+gzfl	gựng
+gznl	gựn
+gzml	gựm
+gzvl	gựp
+gzrl	gựt
+
+gz1o	gựa
+gzuo	gượu
+gzjo	gượi
+gzco	gược
+gzfo	gượng
+gzno	gượn
+gzmo	gượm
+gzvo	gượp
+gzro	gượt
+
+gp1l	gụ
+gpul	gụu
+gpjl	gụi
+gpcl	gục
+gpfl	gụng
+gpnl	gụn
+gpml	gụm
+gpvl	gụp
+gprl	gụt
+
+gp1o	gụa
+gpuo	guộu
+gpjo	guội
+gpco	guộc
+gpfo	guộng
+gpno	guộn
+gpmo	guộm
+gpvo	guộp
+gpro	guột
+
+ge1o	goẹ
+geuo	goẹo
+gejo	goẹi
+geco	goẹc
+gefo	goẹng
+geno	goẹn
+gemo	goẹm
+gevo	goẹp
+gero	goẹt
+
+gd1o	guệ
+gduo	guệu
+gdjo	guệy
+gdco	guệch
+gdfo	guệnh
+gdno	guện
+gdmo	guệm
+gdvo	guệp
+gdro	guệt
+
+gi1o	guị
+giuo	guỵu
+gijo	guỵ
+gico	guỵch
+gifo	guỵnh
+gino	guỵn
+gimo	guỵm
+givo	guỵp
+giro	guỵt
+
+gk1o	guỵa
+gkuo	guyệu
+gkjo	guyệy
+gkco	guyệc
+gkfo	guyệng
+gkno	guyện
+gkmo	guyệm
+gkvo	guyệp
+gkro	guyệt
+
+aw1l	ngợ
+awul	ngợu
+awjl	ngợi
+awcl	ngợc
+awfl	ngợng
+awnl	ngợn
+awml	ngợm
+awvl	ngợp
+awrl	ngợt
+
+aw1o	nguợ
+awuo	nguợu
+awjo	nguợi
+awco	nguợc
+awfo	nguợng
+awno	nguợn
+awmo	nguợm
+awvo	nguợp
+awro	nguợt
+
+ao1l	ngọ
+aoul	ngọu
+aojl	ngọi
+aocl	ngọc
+aofl	ngọng
+aonl	ngọn
+aoml	ngọm
+aovl	ngọp
+aorl	ngọt
+
+ao1o	ngoọ
+aouo	ngoọu
+aojo	ngoọi
+aoco	ngoọc
+aofo	ngoọng
+aono	ngoọn
+aomo	ngoọm
+aovo	ngoọp
+aoro	ngoọt
+
+aa1l	ngạ
+aaul	ngạo
+aajl	ngại
+aacl	ngạc
+aafl	ngạng
+aanl	ngạn
+aaml	ngạm
+aavl	ngạp
+aarl	ngạt
+
+aa1o	ngoạ
+aauo	ngoạo
+aajo	ngoại
+aaco	ngoạc
+aafo	ngoạng
+aano	ngoạn
+aamo	ngoạm
+aavo	ngoạp
+aaro	ngoạt
+
+al1l	ngộ
+alul	ngộu
+aljl	ngội
+alcl	ngộc
+alfl	ngộng
+alnl	ngộn
+alml	ngộm
+alvl	ngộp
+alrl	ngột
+
+al1o	ngoộ
+aluo	ngoộu
+aljo	ngoội
+alco	ngoộc
+alfo	ngoộng
+alno	ngoộn
+almo	ngoộm
+alvo	ngoộp
+alro	ngoột
+
+as1l	ngạnh
+asul	ngậu
+asjl	ngậy
+ascl	ngậc
+asfl	ngậng
+asnl	ngận
+asml	ngậm
+asvl	ngập
+asrl	ngật
+
+as1o	ngoạnh
+asuo	nguậu
+asjo	nguậy
+asco	nguậc
+asfo	nguậng
+asno	nguận
+asmo	nguậm
+asvo	nguập
+asro	nguật
+
+aq1l	ngạch
+aqul	ngạu
+aqjl	ngạy
+aqcl	ngặc
+aqfl	ngặng
+aqnl	ngặn
+aqml	ngặm
+aqvl	ngặp
+aqrl	ngặt
+
+aq1o	ngoạch
+aquo	ngoạu
+aqjo	ngoạy
+aqco	ngoặc
+aqfo	ngoặng
+aqno	ngoặn
+aqmo	ngoặm
+aqvo	ngoặp
+aqro	ngoặt
+
+az1l	ngự
+azul	ngựu
+azjl	ngựi
+azcl	ngực
+azfl	ngựng
+aznl	ngựn
+azml	ngựm
+azvl	ngựp
+azrl	ngựt
+
+az1o	ngựa
+azuo	ngượu
+azjo	ngượi
+azco	ngược
+azfo	ngượng
+azno	ngượn
+azmo	ngượm
+azvo	ngượp
+azro	ngượt
+
+ap1l	ngụ
+apul	ngụu
+apjl	ngụi
+apcl	ngục
+apfl	ngụng
+apnl	ngụn
+apml	ngụm
+apvl	ngụp
+aprl	ngụt
+
+ap1o	ngụa
+apuo	nguộu
+apjo	nguội
+apco	nguộc
+apfo	nguộng
+apno	nguộn
+apmo	nguộm
+apvo	nguộp
+apro	nguột
+
+ae1o	ngoẹ
+aeuo	ngoẹo
+aejo	ngoẹi
+aeco	ngoẹc
+aefo	ngoẹng
+aeno	ngoẹn
+aemo	ngoẹm
+aevo	ngoẹp
+aero	ngoẹt
+
+ad1o	nguệ
+aduo	nguệu
+adjo	nguệy
+adco	nguệch
+adfo	nguệnh
+adno	nguện
+admo	nguệm
+advo	nguệp
+adro	nguệt
+
+ai1o	nguị
+aiuo	nguỵu
+aijo	nguỵ
+aico	nguỵch
+aifo	nguỵnh
+aino	nguỵn
+aimo	nguỵm
+aivo	nguỵp
+airo	nguỵt
+
+ak1o	nguỵa
+akuo	nguyệu
+akjo	nguyệy
+akco	nguyệc
+akfo	nguyệng
+akno	nguyện
+akmo	nguyệm
+akvo	nguyệp
+akro	nguyệt
+
+zw1l	giợ
+zwul	giợu
+zwjl	giợi
+zwcl	giợc
+zwfl	giợng
+zwnl	giợn
+zwml	giợm
+zwvl	giợp
+zwrl	giợt
+
+zw1o	giuợ
+zwuo	giuợu
+zwjo	giuợi
+zwco	giuợc
+zwfo	giuợng
+zwno	giuợn
+zwmo	giuợm
+zwvo	giuợp
+zwro	giuợt
+
+zo1l	giọ
+zoul	giọu
+zojl	giọi
+zocl	giọc
+zofl	giọng
+zonl	giọn
+zoml	giọm
+zovl	giọp
+zorl	giọt
+
+zo1o	gioọ
+zouo	gioọu
+zojo	gioọi
+zoco	gioọc
+zofo	gioọng
+zono	gioọn
+zomo	gioọm
+zovo	gioọp
+zoro	gioọt
+
+za1l	giạ
+zaul	giạo
+zajl	giại
+zacl	giạc
+zafl	giạng
+zanl	giạn
+zaml	giạm
+zavl	giạp
+zarl	giạt
+
+za1o	gioạ
+zauo	gioạo
+zajo	gioại
+zaco	gioạc
+zafo	gioạng
+zano	gioạn
+zamo	gioạm
+zavo	gioạp
+zaro	gioạt
+
+zl1l	giộ
+zlul	giộu
+zljl	giội
+zlcl	giộc
+zlfl	giộng
+zlnl	giộn
+zlml	giộm
+zlvl	giộp
+zlrl	giột
+
+zl1o	gioộ
+zluo	gioộu
+zljo	gioội
+zlco	gioộc
+zlfo	gioộng
+zlno	gioộn
+zlmo	gioộm
+zlvo	gioộp
+zlro	gioột
+
+zs1l	giạnh
+zsul	giậu
+zsjl	giậy
+zscl	giậc
+zsfl	giậng
+zsnl	giận
+zsml	giậm
+zsvl	giập
+zsrl	giật
+
+zs1o	gioạnh
+zsuo	giuậu
+zsjo	giuậy
+zsco	giuậc
+zsfo	giuậng
+zsno	giuận
+zsmo	giuậm
+zsvo	giuập
+zsro	giuật
+
+zq1l	giạch
+zqul	giạu
+zqjl	giạy
+zqcl	giặc
+zqfl	giặng
+zqnl	giặn
+zqml	giặm
+zqvl	giặp
+zqrl	giặt
+
+zq1o	gioạch
+zquo	gioạu
+zqjo	gioạy
+zqco	gioặc
+zqfo	gioặng
+zqno	gioặn
+zqmo	gioặm
+zqvo	gioặp
+zqro	gioặt
+
+zz1l	giự
+zzul	giựu
+zzjl	giựi
+zzcl	giực
+zzfl	giựng
+zznl	giựn
+zzml	giựm
+zzvl	giựp
+zzrl	giựt
+
+zz1o	giựa
+zzuo	giượu
+zzjo	giượi
+zzco	giược
+zzfo	giượng
+zzno	giượn
+zzmo	giượm
+zzvo	giượp
+zzro	giượt
+
+zp1l	giụ
+zpul	giụu
+zpjl	giụi
+zpcl	giục
+zpfl	giụng
+zpnl	giụn
+zpml	giụm
+zpvl	giụp
+zprl	giụt
+
+zp1o	giụa
+zpuo	giuộu
+zpjo	giuội
+zpco	giuộc
+zpfo	giuộng
+zpno	giuộn
+zpmo	giuộm
+zpvo	giuộp
+zpro	giuột
+
+ze1o	gioẹ
+zeuo	gioẹo
+zejo	gioẹi
+zeco	gioẹc
+zefo	gioẹng
+zeno	gioẹn
+zemo	gioẹm
+zevo	gioẹp
+zero	gioẹt
+
+zd1o	giuệ
+zduo	giuệu
+zdjo	giuệy
+zdco	giuệch
+zdfo	giuệnh
+zdno	giuện
+zdmo	giuệm
+zdvo	giuệp
+zdro	giuệt
+
+zi1o	giuị
+ziuo	giuỵu
+zijo	giuỵ
+zico	giuỵch
+zifo	giuỵnh
+zino	giuỵn
+zimo	giuỵm
+zivo	giuỵp
+ziro	giuỵt
+
+zk1o	giuỵa
+zkuo	giuyệu
+zkjo	giuyệy
+zkco	giuyệc
+zkfo	giuyệng
+zkno	giuyện
+zkmo	giuyệm
+zkvo	giuyệp
+zkro	giuyệt

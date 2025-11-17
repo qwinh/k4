@@ -1,0 +1,39 @@
+0e1l	ẹ
+0eul	ẹo
+0ejl	ẹi
+0ecl	ẹc
+0efl	ẹng
+0enl	ẹn
+0eml	ẹm
+0evl	ẹp
+0erl	ẹt
+
+0d1l	ệ
+0dul	ệu
+0djl	ệy
+0dcl	ệch
+0dfl	ệnh
+0dnl	ện
+0dml	ệm
+0dvl	ệp
+0drl	ệt
+
+0i1l	ị
+0iul	ịu
+0ijl	ỵ
+0icl	ịch
+0ifl	ịnh
+0inl	ịn
+0iml	ịm
+0ivl	ịp
+0irl	ịt
+
+0k1l	ịa
+0kul	iệu
+0kjl	iệy
+0kcl	iệc
+0kfl	iệng
+0knl	iện
+0kml	iệm
+0kvl	iệp
+0krl	iệt
