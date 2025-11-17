@@ -69,7 +69,7 @@ def viet_to_tone_sep(text):
 
 # File I/O script
 if __name__ == "__main__":
-    input_prefix = 'truyen-kieu_one-line'
+    input_prefix = 'muled'
     input_file = input_prefix + '.txt'  # Adjust to your input file path
     output_file = input_prefix + '_tone_sep.txt'  # Output file path
     

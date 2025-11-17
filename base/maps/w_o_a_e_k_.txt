@@ -1,0 +1,39 @@
+pk l	ịa
+ kul	yệu
+ kjl	yệy
+ kcl	yệc
+ kfl	yệng
+ knl	yện
+ kml	yệm
+ kvl	yệp
+ krl	yệt
+
+pk o	uyệ
+ kuo	uyệu
+ kjo	uyệy
+ kco	uyệc
+ kfo	uyệng
+ kno	uyện
+ kmo	uyệm
+ kvo	uyệp
+ kro	uyệt
+
+zk l	gỵa
+zkul	giệu
+zkjl	giệy
+zkcl	giệc
+zkfl	giệng
+zknl	giện
+zkml	giệm
+zkvl	giệp
+zkrl	giệt
+
+zk o	giuyệ
+zkuo	giuyệu
+zkjo	giuyệy
+zkco	giuyệc
+zkfo	giuyệng
+zkno	giuyện
+zkmo	giuyệm
+zkvo	giuyệp
+zkro	giuyệt

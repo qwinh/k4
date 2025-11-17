@@ -54,7 +54,7 @@ def viet_to_telex(text):
 
 # File I/O script
 if __name__ == "__main__":
-    input_prefix = 'truyen-kieu_one-line'
+    input_prefix = 'muled'
     input_file = input_prefix + '.txt'  # Adjust to your input file path
     output_file = input_prefix + '_telex.txt'  # Output file path
     
@@ -63,8 +63,8 @@ if __name__ == "__main__":
     
     telex_content = viet_to_telex(content)
 
-    #telex_content = telex_content.replace("uwo", "uo")
-    #telex_content = telex_content.replace("uw", "w")
+    telex_content = telex_content.replace("uwo", "uo")
+    telex_content = telex_content.replace("uw", "w")
     
     with open(output_file, 'w', encoding='utf-8') as f_out:
         f_out.write(telex_content)

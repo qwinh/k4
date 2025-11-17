@@ -1,0 +1,35 @@
+t	qu
+
+z	gi/g
+g	g/gh
+
+a	ng/ngh
+c	c/k
+
+t th đ d
+ch tr r l
+n nh m
+ph v b
+s x 0
+kh h
+
+maps:
+q	t
+w	th
+j	đ
+d	d
+u	ch
+o	tr
+r	r
+l	l
+n	n
+i	nh
+m	m
+f	ph
+v	v
+e	b
+s	s
+x	x
+k	kh
+h	h
+

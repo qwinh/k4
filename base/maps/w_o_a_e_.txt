@@ -1,0 +1,39 @@
+pe l	ẹ
+ eul	ẹo
+ ejl	ẹi
+ ecl	ẹc
+ efl	ẹng
+ enl	ẹn
+ eml	ẹm
+ evl	ẹp
+ erl	ẹt
+
+pe o	oẹ
+ euo	oẹo
+ ejo	oẹi
+ eco	oẹc
+ efo	oẹng
+ eno	oẹn
+ emo	oẹm
+ evo	oẹp
+ ero	oẹt
+
+ze l	gẹ
+zeul	gẹo
+zejl	gẹi
+zecl	gẹc
+zefl	gẹng
+zenl	gẹn
+zeml	gẹm
+zevl	gẹp
+zerl	gẹt
+
+ze o	gioẹ
+zeuo	gioẹo
+zejo	gioẹi
+zeco	gioẹc
+zefo	gioẹng
+zeno	gioẹn
+zemo	gioẹm
+zevo	gioẹp
+zero	gioẹt

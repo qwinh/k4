@@ -1,0 +1,49 @@
+pi l	ị
+ iul	ịu
+ ijl	ỵ
+ icl	ịch
+ ifl	ịnh
+ inl	ịn
+ iml	ịm
+ ivl	ịp
+ irl	ịt
+
+pi o	uị
+ iuo	uỵu
+ ijo	uỵ
+ ico	uỵch
+ ifo	uỵnh
+ ino	uỵn
+ imo	uỵm
+ ivo	uỵp
+ iro	uỵt
+
+zi l	gị
+ziul	gịu
+zijl	gỵ
+zicl	gịch
+zifl	gịnh
+zinl	gịn
+ziml	gịm
+zivl	gịp
+zirl	gịt
+
+zi o	giuị
+ziuo	giuỵu
+zijo	giuỵ
+zico	giuỵch
+zifo	giuỵnh
+zino	giuỵn
+zimo	giuỵm
+zivo	giuỵp
+ziro	giuỵt
+
+ti l	quị
+tiul	quỵu
+tijl	quỵ
+ticl	quỵch
+tifl	quỵnh
+tinl	quỵn
+timl	quỵm
+tivl	quỵp
+tirl	quỵt
