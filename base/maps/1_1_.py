@@ -68,7 +68,7 @@ tone_pairs = [
     ("d", "e", 0x0309), # hook above
     ("a", "q", 0x0303), # tilde
     ("k", "i", 0x0300), # grave
-    ("", "z", None), # tone removal
+    ("", "t", None), # tone removal
 ]
 # ---------------------------------------------------------
 # Main transformation
@@ -105,6 +105,6 @@ def process_file(input_path, output_path):
 # Run
 # ---------------------------------------------------------
 if __name__ == "__main__":
-    input_file = "0__.txt"
-    output_file = "0__1_.txt"
+    input_file = "1_.txt"
+    output_file = "1_1_.txt"
     process_file(input_file, output_file)

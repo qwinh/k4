@@ -38,8 +38,8 @@ def make_variations(input_path, output_path, maps_dict, encoding="utf-8"):
 
     with open(output_path, "w", encoding=encoding) as out:
         # write original content first
-        for line in lines:
-            out.write(line + "\n")
+        # for line in lines:
+            # out.write(line + "\n")
 
         # for each mapping, append a full-file variation
         for letter, mapped in maps_dict.items():

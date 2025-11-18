@@ -58,6 +58,86 @@
 0avo	oạp
 0aro	oạt
 
+0e1l	ẹ
+0eul	ẹo
+0ejl	ẹi
+0ecl	ẹc
+0efl	ẹng
+0enl	ẹn
+0eml	ẹm
+0evl	ẹp
+0erl	ẹt
+
+0e1o	oẹ
+0euo	oẹo
+0ejo	oẹi
+0eco	oẹc
+0efo	oẹng
+0eno	oẹn
+0emo	oẹm
+0evo	oẹp
+0ero	oẹt
+
+0d1l	ệ
+0dul	ệu
+0djl	ệy
+0dcl	ệch
+0dfl	ệnh
+0dnl	ện
+0dml	ệm
+0dvl	ệp
+0drl	ệt
+
+0d1o	uệ
+0duo	uệu
+0djo	uệy
+0dco	uệch
+0dfo	uệnh
+0dno	uện
+0dmo	uệm
+0dvo	uệp
+0dro	uệt
+
+0i1l	ị
+0iul	ịu
+0ijl	ỵ
+0icl	ịch
+0ifl	ịnh
+0inl	ịn
+0iml	ịm
+0ivl	ịp
+0irl	ịt
+
+0i1o	uị
+0iuo	uỵu
+0ijo	uỵ
+0ico	uỵch
+0ifo	uỵnh
+0ino	uỵn
+0imo	uỵm
+0ivo	uỵp
+0iro	uỵt
+
+0k1l	ịa
+0kul	yệu
+0kjl	yệy
+0kcl	yệc
+0kfl	yệng
+0knl	yện
+0kml	yệm
+0kvl	yệp
+0krl	yệt
+
+0k1o	uỵa
+0kuo	uyệu
+0kjo	uyệy
+0kco	uyệc
+0kfo	uyệng
+0kno	uyện
+0kmo	uyệm
+0kvo	uyệp
+0kro	uyệt
+
 0l1l	ộ
 0lul	ộu
 0ljl	ội
@@ -157,43 +237,3 @@
 0pmo	uộm
 0pvo	uộp
 0pro	uột
-
-0e1o	oẹ
-0euo	oẹo
-0ejo	oẹi
-0eco	oẹc
-0efo	oẹng
-0eno	oẹn
-0emo	oẹm
-0evo	oẹp
-0ero	oẹt
-
-0d1o	uệ
-0duo	uệu
-0djo	uệy
-0dco	uệch
-0dfo	uệnh
-0dno	uện
-0dmo	uệm
-0dvo	uệp
-0dro	uệt
-
-0i1o	uị
-0iuo	uỵu
-0ijo	uỵ
-0ico	uỵch
-0ifo	uỵnh
-0ino	uỵn
-0imo	uỵm
-0ivo	uỵp
-0iro	uỵt
-
-0k1o	uỵa
-0kuo	uyệu
-0kjo	uyệy
-0kco	uyệc
-0kfo	uyệng
-0kno	uyện
-0kmo	uyệm
-0kvo	uyệp
-0kro	uyệt

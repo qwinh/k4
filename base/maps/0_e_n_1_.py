@@ -11,7 +11,7 @@ maps = {
     "c": "c",
     "g": "g",
     "a": "ng",
-    "z": "gi",
+    "t": "gi",
 }
 
 input_file = "0_e_n_.txt"

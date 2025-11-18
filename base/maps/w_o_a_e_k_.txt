@@ -18,22 +18,22 @@ pk o	uỵa
  kvo	uyệp
  kro	uyệt
 
-zk l	gỵa
-zkul	giệu
-zkjl	giệy
-zkcl	giệc
-zkfl	giệng
-zknl	giện
-zkml	giệm
-zkvl	giệp
-zkrl	giệt
+tk l	gỵa
+tkul	giệu
+tkjl	giệy
+tkcl	giệc
+tkfl	giệng
+tknl	giện
+tkml	giệm
+tkvl	giệp
+tkrl	giệt
 
-zk o	giuỵa
-zkuo	giuyệu
-zkjo	giuyệy
-zkco	giuyệc
-zkfo	giuyệng
-zkno	giuyện
-zkmo	giuyệm
-zkvo	giuyệp
-zkro	giuyệt
+tk o	giuỵa
+tkuo	giuyệu
+tkjo	giuyệy
+tkco	giuyệc
+tkfo	giuyệng
+tkno	giuyện
+tkmo	giuyệm
+tkvo	giuyệp
+tkro	giuyệt

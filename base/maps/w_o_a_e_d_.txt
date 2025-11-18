@@ -18,22 +18,22 @@ pd o	uệ
  dvo	uệp
  dro	uệt
 
-zd l	gệ
-zdul	gệu
-zdjl	gệy
-zdcl	gệch
-zdfl	gệnh
-zdnl	gện
-zdml	gệm
-zdvl	gệp
-zdrl	gệt
+td l	gệ
+tdul	gệu
+tdjl	gệy
+tdcl	gệch
+tdfl	gệnh
+tdnl	gện
+tdml	gệm
+tdvl	gệp
+tdrl	gệt
 
-zd o	giuệ
-zduo	giuệu
-zdjo	giuệy
-zdco	giuệch
-zdfo	giuệnh
-zdno	giuện
-zdmo	giuệm
-zdvo	giuệp
-zdro	giuệt
+td o	giuệ
+tduo	giuệu
+tdjo	giuệy
+tdco	giuệch
+tdfo	giuệnh
+tdno	giuện
+tdmo	giuệm
+tdvo	giuệp
+tdro	giuệt

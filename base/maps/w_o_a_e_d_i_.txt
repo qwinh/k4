@@ -18,32 +18,32 @@ pi o	uị
  ivo	uỵp
  iro	uỵt
 
-zi l	gị
-ziul	gịu
-zijl	gỵ
-zicl	gịch
-zifl	gịnh
-zinl	gịn
-ziml	gịm
-zivl	gịp
-zirl	gịt
+ti l	gị
+tiul	gịu
+tijl	gỵ
+ticl	gịch
+tifl	gịnh
+tinl	gịn
+timl	gịm
+tivl	gịp
+tirl	gịt
 
-zi o	giuị
-ziuo	giuỵu
-zijo	giuỵ
-zico	giuỵch
-zifo	giuỵnh
-zino	giuỵn
-zimo	giuỵm
-zivo	giuỵp
-ziro	giuỵt
+ti o	giuị
+tiuo	giuỵu
+tijo	giuỵ
+tico	giuỵch
+tifo	giuỵnh
+tino	giuỵn
+timo	giuỵm
+tivo	giuỵp
+tiro	giuỵt
 
-ti l	quị
-tiul	quỵu
-tijl	quỵ
-ticl	quỵch
-tifl	quỵnh
-tinl	quỵn
-timl	quỵm
-tivl	quỵp
-tirl	quỵt
+zi l	quị
+ziul	quỵu
+zijl	quỵ
+zicl	quỵch
+zifl	quỵnh
+zinl	quỵn
+ziml	quỵm
+zivl	quỵp
+zirl	quỵt

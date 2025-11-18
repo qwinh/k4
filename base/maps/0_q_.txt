@@ -118,25 +118,25 @@
 0qvl	ặp
 0qrl	ặt
 
-0z1l	ự
-0zul	ựu
-0zjl	ựi
-0zcl	ực
-0zfl	ựng
-0znl	ựn
-0zml	ựm
-0zvl	ựp
-0zrl	ựt
+0t1l	ự
+0tul	ựu
+0tjl	ựi
+0tcl	ực
+0tfl	ựng
+0tnl	ựn
+0tml	ựm
+0tvl	ựp
+0trl	ựt
 
-0z1o	ựa
-0zuo	ượu
-0zjo	ượi
-0zco	ược
-0zfo	ượng
-0zno	ượn
-0zmo	ượm
-0zvo	ượp
-0zro	ượt
+0t1o	ựa
+0tuo	ượu
+0tjo	ượi
+0tco	ược
+0tfo	ượng
+0tno	ượn
+0tmo	ượm
+0tvo	ượp
+0tro	ượt
 
 0p1l	ụ
 0pul	ụu

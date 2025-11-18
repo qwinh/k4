@@ -18,22 +18,22 @@ pe o	oẹ
  evo	oẹp
  ero	oẹt
 
-ze l	gẹ
-zeul	gẹo
-zejl	gẹi
-zecl	gẹc
-zefl	gẹng
-zenl	gẹn
-zeml	gẹm
-zevl	gẹp
-zerl	gẹt
+te l	gẹ
+teul	gẹo
+tejl	gẹi
+tecl	gẹc
+tefl	gẹng
+tenl	gẹn
+teml	gẹm
+tevl	gẹp
+terl	gẹt
 
-ze o	gioẹ
-zeuo	gioẹo
-zejo	gioẹi
-zeco	gioẹc
-zefo	gioẹng
-zeno	gioẹn
-zemo	gioẹm
-zevo	gioẹp
-zero	gioẹt
+te o	gioẹ
+teuo	gioẹo
+tejo	gioẹi
+teco	gioẹc
+tefo	gioẹng
+teno	gioẹn
+temo	gioẹm
+tevo	gioẹp
+tero	gioẹt
