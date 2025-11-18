@@ -1,6 +1,6 @@
-t	qu
+b	qu
 
-z	gi/g
+t	gi/g
 g	g/gh
 
 a	ng/ngh

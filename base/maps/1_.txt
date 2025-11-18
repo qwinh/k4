@@ -5483,6 +5483,86 @@ tkmo	giuyệm
 tkvo	giuyệp
 tkro	giuyệt
 
+tel	gẹ
+teul	gẹo
+tejl	gẹi
+tecl	gẹc
+tefl	gẹng
+tenl	gẹn
+teml	gẹm
+tevl	gẹp
+terl	gẹt
+
+teo	gioẹ
+teuo	gioẹo
+tejo	gioẹi
+teco	gioẹc
+tefo	gioẹng
+teno	gioẹn
+temo	gioẹm
+tevo	gioẹp
+tero	gioẹt
+
+tdl	gệ
+tdul	gệu
+tdjl	gệy
+tdcl	gệch
+tdfl	gệnh
+tdnl	gện
+tdml	gệm
+tdvl	gệp
+tdrl	gệt
+
+tdo	giuệ
+tduo	giuệu
+tdjo	giuệy
+tdco	giuệch
+tdfo	giuệnh
+tdno	giuện
+tdmo	giuệm
+tdvo	giuệp
+tdro	giuệt
+
+til	gị
+tiul	gịu
+tijl	gỵ
+ticl	gịch
+tifl	gịnh
+tinl	gịn
+timl	gịm
+tivl	gịp
+tirl	gịt
+
+tio	giuị
+tiuo	giuỵu
+tijo	giuỵ
+tico	giuỵch
+tifo	giuỵnh
+tino	giuỵn
+timo	giuỵm
+tivo	giuỵp
+tiro	giuỵt
+
+tkl	gỵa
+tkul	giệu
+tkjl	giệy
+tkcl	giệc
+tkfl	giệng
+tknl	giện
+tkml	giệm
+tkvl	giệp
+tkrl	giệt
+
+tko	giuỵa
+tkuo	giuyệu
+tkjo	giuyệy
+tkco	giuyệc
+tkfo	giuyệng
+tkno	giuyện
+tkmo	giuyệm
+tkvo	giuyệp
+tkro	giuyệt
+
 
 bwl	quợ
 bwul	quợu
@@ -5643,4 +5723,13 @@ bpno	quuộn
 bpmo	quuộm
 bpvo	quuộp
 bpro	quuột
+
+
+
+
+
+
+
+
+
 
