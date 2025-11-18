@@ -69,15 +69,15 @@ clml	cộm
 clvl	cộp
 clrl	cột
 
-cl1o	coộ
-cluo	coộu
-cljo	coội
-clco	coộc
-clfo	coộng
-clno	coộn
-clmo	coộm
-clvo	coộp
-clro	coột
+cl1o	côộ
+cluo	côộu
+cljo	côội
+clco	côộc
+clfo	côộng
+clno	côộn
+clmo	côộm
+clvo	côộp
+clro	côột
 
 cs1l	cạnh
 csul	cậu
@@ -269,15 +269,15 @@ glml	gộm
 glvl	gộp
 glrl	gột
 
-gl1o	goộ
-gluo	goộu
-gljo	goội
-glco	goộc
-glfo	goộng
-glno	goộn
-glmo	goộm
-glvo	goộp
-glro	goột
+gl1o	gôộ
+gluo	gôộu
+gljo	gôội
+glco	gôộc
+glfo	gôộng
+glno	gôộn
+glmo	gôộm
+glvo	gôộp
+glro	gôột
 
 gs1l	gạnh
 gsul	gậu
@@ -469,15 +469,15 @@ alml	ngộm
 alvl	ngộp
 alrl	ngột
 
-al1o	ngoộ
-aluo	ngoộu
-aljo	ngoội
-alco	ngoộc
-alfo	ngoộng
-alno	ngoộn
-almo	ngoộm
-alvo	ngoộp
-alro	ngoột
+al1o	ngôộ
+aluo	ngôộu
+aljo	ngôội
+alco	ngôộc
+alfo	ngôộng
+alno	ngôộn
+almo	ngôộm
+alvo	ngôộp
+alro	ngôột
 
 as1l	ngạnh
 asul	ngậu
@@ -669,15 +669,15 @@ tlml	giộm
 tlvl	giộp
 tlrl	giột
 
-tl1o	gioộ
-tluo	gioộu
-tljo	gioội
-tlco	gioộc
-tlfo	gioộng
-tlno	gioộn
-tlmo	gioộm
-tlvo	gioộp
-tlro	gioột
+tl1o	giôộ
+tluo	giôộu
+tljo	giôội
+tlco	giôộc
+tlfo	giôộng
+tlno	giôộn
+tlmo	giôộm
+tlvo	giôộp
+tlro	giôột
 
 ts1l	giạnh
 tsul	giậu

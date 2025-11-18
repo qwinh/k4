@@ -68,15 +68,15 @@
 0lvl	ộp
 0lrl	ột
 
-0l1o	oộ
-0luo	oộu
-0ljo	oội
-0lco	oộc
-0lfo	oộng
-0lno	oộn
-0lmo	oộm
-0lvo	oộp
-0lro	oột
+0l1o	ôộ
+0luo	ôộu
+0ljo	ôội
+0lco	ôộc
+0lfo	ôộng
+0lno	ôộn
+0lmo	ôộm
+0lvo	ôộp
+0lro	ôột
 
 0s1l	ạnh
 0sul	ậu

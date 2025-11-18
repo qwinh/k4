@@ -79,25 +79,25 @@ bkml	quyệm
 bkvl	quyệp
 bkrl	quyệt
 
-bl1l	quộ
-blul	quộu
-bljl	quội
-blcl	quộc
-blfl	quộng
-blnl	quộn
-blml	quộm
-blvl	quộp
-blrl	quột
+bl1l	qoộ
+blul	qoộu
+bljl	qoội
+blcl	qoộc
+blfl	qoộng
+blnl	qoộn
+blml	qoộm
+blvl	qoộp
+blrl	qoột
 
-bl1o	quoộ
-bluo	quoộu
-bljo	quoội
-blco	quoộc
-blfo	quoộng
-blno	quoộn
-blmo	quoộm
-blvo	quoộp
-blro	quoột
+bl1o	quôộ
+bluo	quôộu
+bljo	quôội
+blco	quôộc
+blfo	quôộng
+blno	quôộn
+blmo	quôộm
+blvo	quôộp
+blro	quôột
 
 bs1l	quạnh
 bsul	quậu
@@ -150,11 +150,11 @@ bpvl	quụp
 bprl	quụt
 
 bp1o	quụa
-bpuo	quuộu
-bpjo	quuội
-bpco	quuộc
-bpfo	quuộng
-bpno	quuộn
-bpmo	quuộm
-bpvo	quuộp
-bpro	quuột
+bpuo	quộu
+bpjo	quội
+bpco	quộc
+bpfo	quộng
+bpno	quộn
+bpmo	quộm
+bpvo	quộp
+bpro	quột

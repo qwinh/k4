@@ -8,7 +8,7 @@
 #      string prefixed to the value. Append that block to the output.
 
 maps = {
-    "b": "qu",
+    "b": "q",
 }
 
 input_file = "0_q_.txt"

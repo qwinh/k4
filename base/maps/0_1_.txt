@@ -149,15 +149,15 @@ qlml	tộm
 qlvl	tộp
 qlrl	tột
 
-ql1o	toộ
-qluo	toộu
-qljo	toội
-qlco	toộc
-qlfo	toộng
-qlno	toộn
-qlmo	toộm
-qlvo	toộp
-qlro	toột
+ql1o	tôộ
+qluo	tôộu
+qljo	tôội
+qlco	tôộc
+qlfo	tôộng
+qlno	tôộn
+qlmo	tôộm
+qlvo	tôộp
+qlro	tôột
 
 qs1l	tạnh
 qsul	tậu
@@ -389,15 +389,15 @@ wlml	thộm
 wlvl	thộp
 wlrl	thột
 
-wl1o	thoộ
-wluo	thoộu
-wljo	thoội
-wlco	thoộc
-wlfo	thoộng
-wlno	thoộn
-wlmo	thoộm
-wlvo	thoộp
-wlro	thoột
+wl1o	thôộ
+wluo	thôộu
+wljo	thôội
+wlco	thôộc
+wlfo	thôộng
+wlno	thôộn
+wlmo	thôộm
+wlvo	thôộp
+wlro	thôột
 
 ws1l	thạnh
 wsul	thậu
@@ -629,15 +629,15 @@ jlml	độm
 jlvl	độp
 jlrl	đột
 
-jl1o	đoộ
-jluo	đoộu
-jljo	đoội
-jlco	đoộc
-jlfo	đoộng
-jlno	đoộn
-jlmo	đoộm
-jlvo	đoộp
-jlro	đoột
+jl1o	đôộ
+jluo	đôộu
+jljo	đôội
+jlco	đôộc
+jlfo	đôộng
+jlno	đôộn
+jlmo	đôộm
+jlvo	đôộp
+jlro	đôột
 
 js1l	đạnh
 jsul	đậu
@@ -869,15 +869,15 @@ dlml	dộm
 dlvl	dộp
 dlrl	dột
 
-dl1o	doộ
-dluo	doộu
-dljo	doội
-dlco	doộc
-dlfo	doộng
-dlno	doộn
-dlmo	doộm
-dlvo	doộp
-dlro	doột
+dl1o	dôộ
+dluo	dôộu
+dljo	dôội
+dlco	dôộc
+dlfo	dôộng
+dlno	dôộn
+dlmo	dôộm
+dlvo	dôộp
+dlro	dôột
 
 ds1l	dạnh
 dsul	dậu
@@ -1109,15 +1109,15 @@ ulml	chộm
 ulvl	chộp
 ulrl	chột
 
-ul1o	choộ
-uluo	choộu
-uljo	choội
-ulco	choộc
-ulfo	choộng
-ulno	choộn
-ulmo	choộm
-ulvo	choộp
-ulro	choột
+ul1o	chôộ
+uluo	chôộu
+uljo	chôội
+ulco	chôộc
+ulfo	chôộng
+ulno	chôộn
+ulmo	chôộm
+ulvo	chôộp
+ulro	chôột
 
 us1l	chạnh
 usul	chậu
@@ -1349,15 +1349,15 @@ olml	trộm
 olvl	trộp
 olrl	trột
 
-ol1o	troộ
-oluo	troộu
-oljo	troội
-olco	troộc
-olfo	troộng
-olno	troộn
-olmo	troộm
-olvo	troộp
-olro	troột
+ol1o	trôộ
+oluo	trôộu
+oljo	trôội
+olco	trôộc
+olfo	trôộng
+olno	trôộn
+olmo	trôộm
+olvo	trôộp
+olro	trôột
 
 os1l	trạnh
 osul	trậu
@@ -1589,15 +1589,15 @@ rlml	rộm
 rlvl	rộp
 rlrl	rột
 
-rl1o	roộ
-rluo	roộu
-rljo	roội
-rlco	roộc
-rlfo	roộng
-rlno	roộn
-rlmo	roộm
-rlvo	roộp
-rlro	roột
+rl1o	rôộ
+rluo	rôộu
+rljo	rôội
+rlco	rôộc
+rlfo	rôộng
+rlno	rôộn
+rlmo	rôộm
+rlvo	rôộp
+rlro	rôột
 
 rs1l	rạnh
 rsul	rậu
@@ -1829,15 +1829,15 @@ llml	lộm
 llvl	lộp
 llrl	lột
 
-ll1o	loộ
-lluo	loộu
-lljo	loội
-llco	loộc
-llfo	loộng
-llno	loộn
-llmo	loộm
-llvo	loộp
-llro	loột
+ll1o	lôộ
+lluo	lôộu
+lljo	lôội
+llco	lôộc
+llfo	lôộng
+llno	lôộn
+llmo	lôộm
+llvo	lôộp
+llro	lôột
 
 ls1l	lạnh
 lsul	lậu
@@ -2069,15 +2069,15 @@ nlml	nộm
 nlvl	nộp
 nlrl	nột
 
-nl1o	noộ
-nluo	noộu
-nljo	noội
-nlco	noộc
-nlfo	noộng
-nlno	noộn
-nlmo	noộm
-nlvo	noộp
-nlro	noột
+nl1o	nôộ
+nluo	nôộu
+nljo	nôội
+nlco	nôộc
+nlfo	nôộng
+nlno	nôộn
+nlmo	nôộm
+nlvo	nôộp
+nlro	nôột
 
 ns1l	nạnh
 nsul	nậu
@@ -2309,15 +2309,15 @@ ilml	nhộm
 ilvl	nhộp
 ilrl	nhột
 
-il1o	nhoộ
-iluo	nhoộu
-iljo	nhoội
-ilco	nhoộc
-ilfo	nhoộng
-ilno	nhoộn
-ilmo	nhoộm
-ilvo	nhoộp
-ilro	nhoột
+il1o	nhôộ
+iluo	nhôộu
+iljo	nhôội
+ilco	nhôộc
+ilfo	nhôộng
+ilno	nhôộn
+ilmo	nhôộm
+ilvo	nhôộp
+ilro	nhôột
 
 is1l	nhạnh
 isul	nhậu
@@ -2549,15 +2549,15 @@ mlml	mộm
 mlvl	mộp
 mlrl	một
 
-ml1o	moộ
-mluo	moộu
-mljo	moội
-mlco	moộc
-mlfo	moộng
-mlno	moộn
-mlmo	moộm
-mlvo	moộp
-mlro	moột
+ml1o	môộ
+mluo	môộu
+mljo	môội
+mlco	môộc
+mlfo	môộng
+mlno	môộn
+mlmo	môộm
+mlvo	môộp
+mlro	môột
 
 ms1l	mạnh
 msul	mậu
@@ -2789,15 +2789,15 @@ flml	phộm
 flvl	phộp
 flrl	phột
 
-fl1o	phoộ
-fluo	phoộu
-fljo	phoội
-flco	phoộc
-flfo	phoộng
-flno	phoộn
-flmo	phoộm
-flvo	phoộp
-flro	phoột
+fl1o	phôộ
+fluo	phôộu
+fljo	phôội
+flco	phôộc
+flfo	phôộng
+flno	phôộn
+flmo	phôộm
+flvo	phôộp
+flro	phôột
 
 fs1l	phạnh
 fsul	phậu
@@ -3029,15 +3029,15 @@ vlml	vộm
 vlvl	vộp
 vlrl	vột
 
-vl1o	voộ
-vluo	voộu
-vljo	voội
-vlco	voộc
-vlfo	voộng
-vlno	voộn
-vlmo	voộm
-vlvo	voộp
-vlro	voột
+vl1o	vôộ
+vluo	vôộu
+vljo	vôội
+vlco	vôộc
+vlfo	vôộng
+vlno	vôộn
+vlmo	vôộm
+vlvo	vôộp
+vlro	vôột
 
 vs1l	vạnh
 vsul	vậu
@@ -3269,15 +3269,15 @@ elml	bộm
 elvl	bộp
 elrl	bột
 
-el1o	boộ
-eluo	boộu
-eljo	boội
-elco	boộc
-elfo	boộng
-elno	boộn
-elmo	boộm
-elvo	boộp
-elro	boột
+el1o	bôộ
+eluo	bôộu
+eljo	bôội
+elco	bôộc
+elfo	bôộng
+elno	bôộn
+elmo	bôộm
+elvo	bôộp
+elro	bôột
 
 es1l	bạnh
 esul	bậu
@@ -3509,15 +3509,15 @@ slml	sộm
 slvl	sộp
 slrl	sột
 
-sl1o	soộ
-sluo	soộu
-sljo	soội
-slco	soộc
-slfo	soộng
-slno	soộn
-slmo	soộm
-slvo	soộp
-slro	soột
+sl1o	sôộ
+sluo	sôộu
+sljo	sôội
+slco	sôộc
+slfo	sôộng
+slno	sôộn
+slmo	sôộm
+slvo	sôộp
+slro	sôột
 
 ss1l	sạnh
 ssul	sậu
@@ -3749,15 +3749,15 @@ xlml	xộm
 xlvl	xộp
 xlrl	xột
 
-xl1o	xoộ
-xluo	xoộu
-xljo	xoội
-xlco	xoộc
-xlfo	xoộng
-xlno	xoộn
-xlmo	xoộm
-xlvo	xoộp
-xlro	xoột
+xl1o	xôộ
+xluo	xôộu
+xljo	xôội
+xlco	xôộc
+xlfo	xôộng
+xlno	xôộn
+xlmo	xôộm
+xlvo	xôộp
+xlro	xôột
 
 xs1l	xạnh
 xsul	xậu
@@ -3989,15 +3989,15 @@ klml	khộm
 klvl	khộp
 klrl	khột
 
-kl1o	khoộ
-kluo	khoộu
-kljo	khoội
-klco	khoộc
-klfo	khoộng
-klno	khoộn
-klmo	khoộm
-klvo	khoộp
-klro	khoột
+kl1o	khôộ
+kluo	khôộu
+kljo	khôội
+klco	khôộc
+klfo	khôộng
+klno	khôộn
+klmo	khôộm
+klvo	khôộp
+klro	khôột
 
 ks1l	khạnh
 ksul	khậu
@@ -4229,15 +4229,15 @@ hlml	hộm
 hlvl	hộp
 hlrl	hột
 
-hl1o	hoộ
-hluo	hoộu
-hljo	hoội
-hlco	hoộc
-hlfo	hoộng
-hlno	hoộn
-hlmo	hoộm
-hlvo	hoộp
-hlro	hoột
+hl1o	hôộ
+hluo	hôộu
+hljo	hôội
+hlco	hôộc
+hlfo	hôộng
+hlno	hôộn
+hlmo	hôộm
+hlvo	hôộp
+hlro	hôột
 
 hs1l	hạnh
 hsul	hậu
